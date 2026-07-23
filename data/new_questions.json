@@ -1,0 +1,28 @@
+{
+ "date": "2026-07-23",
+ "count": 0,
+ "archive_stats": {
+  "말티즈 아파요": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)",
+  "말티즈 슬개골": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)",
+  "말티즈 기침": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)",
+  "비숑 피부": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)",
+  "비숑 아파요": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)",
+  "푸들 슬개골": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)",
+  "푸들 아파요": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)",
+  "포메라니안 기침": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)",
+  "포메 슬개골": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)",
+  "강아지 슬개골 탈구": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)",
+  "강아지 컥컥": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)",
+  "강아지 마른기침": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)",
+  "강아지 다리 절뚝": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)",
+  "강아지 눈물자국": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)",
+  "강아지 물 많이": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)",
+  "강아지 소변 피": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)",
+  "강아지 밥을 안 먹어요": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)",
+  "강아지 구토": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)",
+  "강아지 심장병": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)",
+  "강아지 신부전": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)",
+  "노령견 치매": "ERROR: 'latin-1' codec can't encode character '\\ufeff' in position 0: ordinal not in range(256)"
+ },
+ "items": []
+}
