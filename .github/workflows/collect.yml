@@ -20,6 +20,15 @@ jobs:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
         run: python fetch_kin.py
+        continue-on-error: true
+      - name: Fetch Threads performance
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+        run: python threads_fetch.py
+        continue-on-error: true
+      - name: Fetch blog posts
+        run: python blog_fetch.py
+        continue-on-error: true
       - name: Commit results
         run: |
           git config user.name "puppydogam-bot"
