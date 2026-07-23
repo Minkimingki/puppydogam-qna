@@ -38,7 +38,7 @@ while True:
         break
     data = get_url(next_url)
 
-# 2) 게시물별 인사이트
+# 2) 게시물별 인사이트 + 답글
 METRICS = "views,likes,replies,reposts,shares"
 for p in posts:
     try:
@@ -50,6 +50,24 @@ for p in posts:
         time.sleep(0.15)
     except Exception as e:
         p["insights_error"] = str(e)
+
+    try:
+        replies = []
+        rd = get(f"/{p['id']}/replies", fields="text,username,timestamp", limit=50)
+        while True:
+            replies.extend(
+                {"username": r.get("username"), "text": r.get("text"),
+                 "timestamp": r.get("timestamp")}
+                for r in rd.get("data", [])
+            )
+            next_url = rd.get("paging", {}).get("next")
+            if not next_url:
+                break
+            rd = get_url(next_url)
+        p["replies_list"] = replies
+        time.sleep(0.15)
+    except Exception as e:
+        p["replies_error"] = str(e)
 
 # 3) 토큰 만료 예정일 (60일 장기 토큰 기준 — API가 발급일을 알려주지 않으므로
 #    refresh_access_token 응답의 expires_in으로 확인. 실패해도 수집엔 지장 없음)
