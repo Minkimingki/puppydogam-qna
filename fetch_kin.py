@@ -8,6 +8,9 @@ from datetime import datetime, timezone, timedelta
 CLIENT_ID = os.environ["NAVER_CLIENT_ID"]
 CLIENT_SECRET = os.environ["NAVER_CLIENT_SECRET"]
 
+# 광각 키워드: 최신순 100개씩 넓게 수집
+WIDE_KEYWORDS = ["강아지", "반려견"]
+
 KEYWORDS = [
     # 견종 중심
     "말티즈 아파요", "말티즈 슬개골", "말티즈 기침",
@@ -19,6 +22,8 @@ KEYWORDS = [
     "강아지 다리 절뚝", "강아지 눈물자국", "강아지 물 많이",
     "강아지 소변 피", "강아지 밥을 안 먹어요", "강아지 구토",
     "강아지 심장병", "강아지 신부전", "노령견 치매",
+    # 행동·생활 중심
+    "강아지 분리불안", "강아지 짖음", "강아지 입질", "강아지 산책 싫어",
 ]
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
@@ -50,9 +55,9 @@ kst = timezone(timedelta(hours=9))
 today = datetime.now(kst).strftime("%Y-%m-%d")
 new_items, archive_stats = [], {}
 
-for kw in KEYWORDS:
+for kw in WIDE_KEYWORDS + KEYWORDS:
     try:
-        data = fetch(kw)
+        data = fetch(kw, display=100 if kw in WIDE_KEYWORDS else 15)
         archive_stats[kw] = data.get("total", 0)
         for it in data.get("items", []):
             link = it["link"]
