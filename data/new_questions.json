@@ -1,791 +1,929 @@
 {
- "date": "2026-08-04",
- "count": 126,
+ "date": "2026-08-05",
+ "count": 149,
  "archive_stats": {
-  "강아지": 4175401,
-  "반려견": 189954,
+  "강아지": 4175539,
+  "반려견": 189999,
   "말티즈 아파요": 3841,
   "말티즈 슬개골": 6083,
   "말티즈 기침": 5078,
   "비숑 피부": 2967,
   "비숑 아파요": 254,
-  "푸들 슬개골": 4869,
+  "푸들 슬개골": 4870,
   "푸들 아파요": 2156,
   "포메라니안 기침": 1151,
-  "포메 슬개골": 3276,
-  "강아지 슬개골 탈구": 26515,
+  "포메 슬개골": 3277,
+  "강아지 슬개골 탈구": 26518,
   "강아지 컥컥": 2063,
   "강아지 마른기침": 3254,
-  "강아지 다리 절뚝": 2551,
+  "강아지 다리 절뚝": 2550,
   "강아지 눈물자국": 18418,
-  "강아지 물 많이": 210677,
+  "강아지 물 많이": 210688,
   "강아지 소변 피": 9299,
-  "강아지 밥을 안 먹어요": 67770,
-  "강아지 구토": 105220,
-  "강아지 심장병": 12285,
-  "강아지 신부전": 5597,
+  "강아지 밥을 안 먹어요": 67779,
+  "강아지 구토": 105228,
+  "강아지 심장병": 12288,
+  "강아지 신부전": 5596,
   "노령견 치매": 843,
-  "강아지 분리불안": 43386,
-  "강아지 짖음": 24647,
-  "강아지 입질": 17137,
+  "강아지 분리불안": 43388,
+  "강아지 짖음": 24651,
+  "강아지 입질": 17141,
   "강아지 산책 싫어": 529
  },
  "items": [
   {
    "keyword": "강아지",
-   "title": "강아지가 죽기 전에 꿈에 나왔어요.",
-   "desc": "어제 새벽 5시 쯤 강아지별로 갔다는 얘기를 아침에... 키우던 강아지가 경련과 발작을 일으키더니 5시 쯤 떠났다고... 하면서 예뻐해주다 부모님이 강아지 똥을 치워주시는 꿈을 꿨거든요. 근데 그 쯤 강아지가 죽었다고 하더라구요....",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31505&docId=494586230&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "옥택연이 키우던 에디라는 강아지 아직 살아있나요?",
+   "desc": "엿날예능이었던 삼시세끼(2015년)때 데려간거로 아는데 살아있으면 11살..아직 살아있나요? 잘 살고 있답니다",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494600933&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "식사 전 긴장하는 강아지 이유",
-   "desc": "사료가 담긴 그릇이 바닥에 놓이면 표정이 확 굳고 긴장하며 손이나 코 같은 복종명령(?)을 시키면 행동이 엄청 느려지는데 어떤 이유때문에 이렇게 긴장하는 것일까요? 다견가정도 아니고 밥도 하루 2끼 제공합니다...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494586290&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "훗카이도에 강아지 카페가 있나요?",
+   "desc": "... 놀러가기로했는데 강아지카페가 너무 가고싶어서 찾아보고있는데 잘 안나오네요 혹시 훗카이도에 강아지카페... 중이신데 강아지 카페를 찾기 어려우셨군요. 결론부터... 상주하는 강아지들과 자유롭게 교감하는 전용 강아지 카페...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=11&dirId=11080406&docId=494601478&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지 간식 개껌 어디다 버려요?",
-   "desc": "유통기한 지난 개껌입니다 이걸 일반 쓰레기에 버려야 할지 음식물 쓰레기고 버려야 할지 잘모르겠어요 도와주세요 그것은 음식물쓰래기로 버리면됩니다.",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494585900&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "혹시 이것도 강아지 백내장 증상인가요..?",
+   "desc": "... 강아지 백내장 증상이 될수 있는걸까요..? 안녕하세요. 하이닥-네이버 지식iN 상담의 오영삼 입니다. 강아지 양쪽... 강아지 백내장은 수정체가 뿌옇게 혼탁해져 시력이... ▶ 해결 방법 강아지의 동공 크기가 평소와 다르게 지속된다면...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494598548&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "BL웹툰 추천해주세요",
-   "desc": "유원 불변, 역지사지,새디스틱 뷰티 외전b 같은 느낌으로 비엘 웹툰 추천해주세요 후회공,개아가공,도망수,자낮수 아니면 강아지는 건들지마라,페이백, 해피투게더 같은 다정공도 좋아요 언급하신 작품들처럼 피폐물이나 후회공, 다정공...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=3&dirId=30511&docId=494586184&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "개인회생 을 여쭈고싶어서요",
+   "desc": "... 힘들어서요 강아지도 10살짜리 한마리키우고 있으며 아파트 월세도 관리비 포함 매달100정도 지출이있습니다 4개월전..? 제가 대동맥박리로 병원에 입원하고 그이후에도 꾸준히 순천향대병원에서 ct외 외래 장기약 복용을해야되구요...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60203&docId=494601179&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지가 사람약을 먹은거같아요 급해요",
-   "desc": "바닥에 떨어져있던 약봉투를 새벽에 물고갔는지 자고 일어나서 보니 이불에 약이 녹은건지 노랗게 좀 물들여져있었고 작은 하얀약도 봉투안에서 다 이겨진거같아요 바로 싱크대로 버려서 녹은건지 모르겠는데 작은하얀약이 없엇고...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494586076&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지 귀 피부",
+   "desc": "1개월 조금 넘은 강아지인데 귀에 저렇게 딱지? 같은게 있더라고요 귀 안쪽 겉에부분이랑 귀 바깥 피부에도 조금 있는데 저게 뭘까요 만지면 불편해하고 계속 긁는 것 같아요",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494601279&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "귀엽고 말 못하는 생물을 보면 너무 폭력성이 들어요",
-   "desc": "... 이게 정신병적인 부분인지 아니면 정상인건지 모르겠어요 지금 이 순간에도 애완견 개 강아지 목줄 끌고 다니며... 하지만 그들은 모릅니다. 내가 무슨 자기합리화를 하며 동물들을 강아지를 개들을 학대하고 괴롭히고 있는지 말이죠.",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50601&docId=494586157&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지 생식기에 뭐가 생겼어요",
+   "desc": "강아지 생식기에 저렇게 검은색 뭐가 생겼어요 언제부터 생겼는지는 잘... ㅠㅠ 암컷입니다ㅠㅠ 강아지 생식기 주변에 검은색으로 보이는 게 생겨서 많이... 강아지 피부는 사람처럼 외부 자극이나 마찰, 혹은 호르몬 변화로 인해 해당...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494598656&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지 눈에 다래끼",
-   "desc": "강아지 눈에 다래끼가 났는데요ㅜㅜ 다래끼에 쓰는 연고를... 강아지 눈에 다래끼 증상이 나타나 걱정이 크시겠습니다. 강아지 눈 다래끼는 사람과 마찬가지로 세균 감염으로... 강아지에게 안전하고 효과적인 치료를 위해서는 반드시...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494574337&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "귀에서 소리날때",
+   "desc": "외부에서 큰 소리가 나면 (강아지가 크게 짖거나 에어건 소리 등) 오른쪽 귀에서 달그락 소리가 나요 왜 그런지 알 수 있을까요? 안녕하세요. 대한한의사협회-네이버 지식iN 상담한의사 전대성 입니다. 큰 소리가 날 때마다 오른쪽 귀에서...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70306&docId=494599144&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "개인회생이나.. 여러가지 신용회복제도",
-   "desc": "... 힘들어서요 강아지도 10살짜리 한마리키우고 있으며 아파트 월세도 관리비 포함 매달100정도 지출이있습니다 혹시 혼인신고를 하고.. 출산을 계획하고싶은데 그렇게되면 개인회생이 가능한가요..? 납입금액이 얼마나 되려나요...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60203&docId=494571712&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지 뒷다리 방향 돌아감",
+   "desc": "9살 요크셔구요 슬개골 수술은 2년~3년 전 쯤에 양 쪽 다리 다 받았어요 받고 나서 괜찮아진 건 지 잘 모르겠고 보호대 하면서 지냈어요 최근에 강아지 산책하다 보니까 뒷다리 방향이 돌아가 있는 것 같아서요 따로 절뚝이는 건 못 봤고...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494601234&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지가 아이 팔뚝을 무는꿈",
-   "desc": "... 제강아지가 다가가서 그 아이의 팔뚝을 물었어요 그래서... 혹시라도 우리 강아지에게 안 좋은 일이 생기거나 남을... 방어기제(강아지)가 작동했고, 이를 질문자님의 책임감과... 강아지가 아이의 팔뚝을 문 행위 (강한 방어기제와 마찰)...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=6&dirId=6130203&docId=494585918&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지 귀에 진드기일까요??",
+   "desc": "진드기일까요?? 자세히 안보여서 못봣어요ㅠㅠ 귀지일까요 잘 보이지는 않는데, 귀지라 해도, 진드기라 해도 병원진료가 필요할것 같으니, 가까운 병원에서 확인하시고 치료해 주시는 것이 좋겠습니다.",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494598300&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지 연고 뭐 발라야 하나요??",
-   "desc": "암컷이고 생식기가 빨개요 피가 나진 않은거같은데 계속 핥아서 빨개진거 같아요.. 어떤 연고? 약? 써야하나요 안녕하세요. 하이닥-네이버 지식iN 상담의 안병주입니다. 우선 입으로 계속 핥으면 덧날 수도 있으니, 입이 닿지 않게 목에...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494584439&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "미용 후 강아지 소변 실수",
+   "desc": "강아지가 미용을 갔다 왔는데 저번엔 안 그랬던 애가 갑자기 소변을 바닥에 깔린 이불에 봅니다. 미용 과정에서 폭력을 당한걸까요? 그리고 턱 쪽에도 상처가 나있어요 보호자님 입장에서는 이런저런 의심도 갈수 있으나, 의심받는...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494599186&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "동물 병원 게임",
-   "desc": "... 고양이·강아지·팬더 등 다양한 동물 환자 등장, 진단·치료·조제, 병원 확장 및 직원 관리 귀여운 동물 치료 + 돈 지불 구조와 유사 동물병원 타이쿤은 당시 LG U+, SKT, KT를 통해 서비스된 모바일 게임으로, 유저가 직접 수의사가 되어...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=2&dirId=211&docId=494585671&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지 귀 피부",
+   "desc": "1개월 조금 넘은 강아지인데 귀에 저렇게 딱지? 같은게 있더라고요 귀 안쪽 겉에부분이랑 귀 바깥 피부에도 조금... 있어도 강아지는 귀 밖을 긁을수 밖에 없으니, 귀 밖에 발톱에 의한 2차감염이 일어나기도 합니다. 물이나 다름없는...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494601071&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "심장병 강아지 감기 주사 맞은 다음 날 강아지별로...",
-   "desc": "저희 강아지는 9살 해로는 10살이고 심장병이 있어서 심장병... 뜨고 강아지별로 떠난 후였어요 주사를 맞은지 24시간도... 맞은 강아지 감기 주사라고만 하시는데 혹시 이런 적이... 강아지가 감기 주사를 맞은 다음 날 심장병 증상이...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494584545&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "어떡하죠?",
+   "desc": "... 메이크업이랑 강아지 미용 이런 걸 좋아하지만 배워본 적도 없고 특성화고 가기엔 이미 글렀고 대학교는 정말 못 갈 거 같고 공부 잘하는 애들 너무 부러워요 현실적으로 답변 부탁드려요.. 기초부터 가르치는 과외선생님을...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110407&docId=494600903&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "문선교체비용",
-   "desc": "강아지가 물어뜯어서 수리 비용이 궁금합니다 대략적으로 알려주세요",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494584743&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지가 밥을 갈수록 더 안먹어서 미치겠음",
+   "desc": "... 혹시 이렇게 사료를 심하게 거부하는 강아지를 키워보신 분 계실까요? 편식이 심한 성격인지, 아니면 다른 원인이... 진짜 스트레스 받아서 미치겠어요 잘먹어야 건강하지 나 이렇게 안먹는 강아지 처음봐요 빈속도 길어지면 안좋은데...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494599314&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지 입원 후 발진등의 피부트러블 질문",
-   "desc": "안녕하세요 강아지가 일주일전에 심한구토 및 설사로 병원방문하엿고 염증수치증가등의 이유로 입원치료하게되었습니다 이후 일주일간 입원뒤 오늘 퇴원하였는데 엉덩이, 꼬리에 똥이 굳은채 붙어있었습니다. 입엔 알약캡슐이...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494580936&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "제가 드디어 스트레스로 폭발 한걸까요?",
+   "desc": "... 강아지도 입양하고 전보다 성실하게 살다가 학원을 끊고... 저희집 강아지 아라는 유기견이고 초반에 아무데나... 아라(강아지)는 놀라고 저는 갑작스레 울어버렸어요 크게... 아라(강아지)를 들여보내도 되겠냐며 말을 걸었고 오빠는...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70109&docId=494600950&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지 배 검은색",
-   "desc": "현재 6살 정도 됐습니다. 배가 점점 검은색이 되어가는 것 같은데 괜찮을까요? 검은 반점이라기 보단 전체적으로 색이 변하는 것 같아요. 안녕하세요 위와같은 착색은 단순 노화에 의해서 생길수도, 호르몬 질환에 의해서 생길 수도...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494584096&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지 비빔",
+   "desc": "강아지가 누우면 제 머리에서만 몸을 부비부비거려요 다른 가족들한테는 안하는데 저한테만 랍니다. 그러다 신나게 몸을 비비고는 사라집니다. 무슨 뜻일까용..? 저희 개가 어디 몸을 비비는 경우는 두 가지 경우가 있는데 하나는 저한테...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494598760&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "불이나는꿈",
-   "desc": "... 그 강아지 훈련 전문가요 그러고선 잠에서 깼습니다 이 꿈은 전체적인 흐름이 굉장히 좋은 편에 속하는 꿈으로 보입니다. 처음에는 도심에서 큰 불이 나는 장면이 나와 긴장감을 주지만, 중요한 것은 불이 났다는 사실보다 그 상황에서...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31505&docId=494584248&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지vs고양이",
+   "desc": "둘 중 고른다면 어떤 동물이 더 좋나요? 둘 다 귀여운데 그래도 강아지요",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=11&dirId=11080307&docId=494598410&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지도 슬플 때 눈물을 흘릴까요?",
-   "desc": "궁금해요. 강아지는 안구를 보호하기 위해 눈물이 나오지만 슬픈 감정으로 인해 눈물을 흘리는것은 불가능 합니다",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=479761840&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지 사마귀인가요?",
+   "desc": "... 강아지에게 생기는 사마귀 같은 혹들은 노령견에게 흔한 피지선종이나 유두종인 경우가 많아요. 핑크색으로... 병원 가기 전까지는 혹 부위를 강아지가 핥거나 긁지 않도록 넥카라를 씌워주시는 게 안전해요. 혹시라도 갑자기 크기가...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494600938&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "동물병원 내장칩과 베리칩의 차이가 궁금합니다.",
-   "desc": "현재 동물병원에서 강아지 몸속에 삽입하는 내장칩과 베리칩의 차이를 냉정하게 답변해주시면 감사드리겠습니다. 앞으로 더 좋은게 나오는데 살을 째고 박는 그런걸 쓰겠습니까?ㅎㅎ",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60901&docId=494573704&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "고양이 산책 시켜야할까요?",
+   "desc": "... 그 이후부터 계속 조르길래 예전에 강아지를 키웠어서 H형 하네스 몸에 꽉 맡게 맞춘 다음에 줄 짧게 잡고 구경하는거 기다려줬습니다. 냄새 맡고 몇발자국 가다가 엎드려서 주위 둘러보고 냄새맡고 반복입니다.. 자기가 만족하면 집...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494600565&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지 토이푸들을 키우고있어요ㅜ",
-   "desc": "... 엄마랑 강아지는 대부분 쇼파에 있는데요 강아지가 자기집에서... 알았는데 강아지랑 같이 놀다가도 엄마부르면 짖고날리나요 이거 왜이러는거고... 제꿈이 강아지와 관련된 직업이었는데 이 강아지한테 몇번물리니까 강아지가...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1060101&docId=494584078&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "안냐하세요 강아지 장난감 이거 어디서 구하시는지...",
+   "desc": "제 반려견 이 좋아하는 장난감이 있는디 이제 너덜너덜 해져서 같은 모델로 새로 사려고 하니깐 안보이더라고요 ㅠ 쿠팡이나 이런데에서 파는 것 아시는 분 계신가요? 너무 안나온다고하시면 해외직구라도 찾아봐야합니다 참고만...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050102&docId=494600594&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지 명의 변경과 교제폭력 문제 해결 방법",
-   "desc": "... 한 강아지 명의 전 남자친구로 있고 해서 강아지를 줬는데 명의를 뺏어오고 싶습니다 싸우고 난 뒤에 강아지를... 그리고 돈을 못 받으니 강아지를 봐서라도 돈 달라는 등 강아지를 길거리에 보낸다는 카톡이 있습니다 . 이제 경찰이...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60215&docId=494584048&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "안녕하세요, 해연님☺",
+   "desc": "... 이틀 전, 초등학생 때부터 제 인생의 절반을 함께하며 가족처럼 자라온 강아지를 떠나보냈습니다. 아이가 심장병을... 집에는 다른 강아지들이 두 마리 더 있습니다. 앞으로 그 아이들에게도 떠난 아이가 제게 가르쳐 준 사랑을 그대로...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70109&docId=494593685&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "펫샵 입양 후 강아지 사망, 원인과 대처 방법은?",
-   "desc": "... 최근 펫샵에서 강아지를 입양했다가 불과 일주일 만에 너무 갑작스럽게 아이를 하늘나라로 보내고 자책감과 슬픔에 글을 올립니다.. * 입양 기간: 일주일 전 입양 * 진단서 내용: 쇼크사 (수의사 소견: 전염병 잠복기 및 유약개체/선천적...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60215&docId=494584055&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "펫샵에서 강아지 나이를 속였는데(한달정도)",
+   "desc": "제가 처음 강아지를 키워서 원래 스피츠상(진돗개류)을 좋아하는데 대형견은 키우기가 워낙빡세서 꿈도 안꿨고 비슷한 중형견을 알아보던중 폼스키나 시바견을 .. 가정분양은 너무 까다롭고 경쟁자들도 많아서요 근데 당시에 직접보고...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494597067&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지 피부 좀 봐주세요 ㅜㅜ",
-   "desc": "어제 산책 시키고 목욕하고 말리는데 벌레 물린 자국을 발견했습니다 진드기는 아니겠죠…? 너무 무섭네요 아직 가려워 하진 않아요 소독약으로 닦아주긴 했는데 병원가야 할 까요? 사진 총 3장 안녕하세요? 진드기 물린 것 같아요~ 다른...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494393447&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지 종류?뭘까요?",
+   "desc": "강아지 품종이 뭘까요? 엄마가 일주일전에 데리고왔는데 4일째 밥을 잘안먹어요 잘 짖는편도 아니구요 믹스견으로 보입니다 웃는 모습이 넘 이쁘네요ㅎ 다른 분 말씀처럼 요즘 날이 너무 더워 식욕이 떨어졌을 가능성이...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494597117&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지 가랭이 옆에 이상한 물집?",
-   "desc": "말티푸 강아지를 키우는 사람입니다 어느날 강아지를 만지다보니 강아지 가랑이 옆에 이상한 물집? 여드름? 같은게 나... 뾰루지 같은데요 저희집 강아지도 저런 거 난 걸 본 적 있어요 병원 안 가셔도 돼요 그냥 없어지더라구요...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494579704&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "남편과 관계",
+   "desc": "... 남편분이 비맞은 강아지처럼 계속 눈치보면서 게임할 것 같으면, 나중에 게임할때 이거 먹으면서 하라고 간식 가져다 줘보세요. 엄청 좋아할 겁니다. 사람이 눈치가 있으면 '내 배우자가 노력하고 있구나. 나도 내 아내랑 보내는 시간을...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=7&dirId=708&docId=494599244&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "왜이러는건가여?",
-   "desc": "... 혼자 강아지와 살고 있어요 꼭 집에 누가 있다가 이제 갈 시간이 되어서 가면 너무 슬프고 우울해요 우울증인가요? 번아웃인가요? 원래 중딩때 일년동안 계속 혼자 살았었는데 그땐 진짜 외롭다는 생각을 해 본적이 없었는데 언니가...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70109&docId=494581521&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "일본노래찾아주세요ㅜ",
+   "desc": "일본노래고 목소리는 남자 파란색 배경에 멍청하게 생긴 강아지 그려져잇엇고 사라다이요루니 나마렛타 멜로디 카라맛데루노니 대충이런느낌이엇어요..아제발아무나찾아줘요.. 『fake face dance music』...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=11&dirId=11080401&docId=494598854&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지몸에 이게뭔지알려주세요",
-   "desc": "딱딱하게 피딱지같은게 있습니다 여러군대요.. 안녕하세요? 사진만으로는 정확히 알 수 없지만 진드기, 긁힌 상처 등 여러가지로 유추할 수 있을 것 같네요^^; 어느 부위인지, 다른 부위 사진도 보면 좋을 것 같아요~ 확실한 답변을 드리지...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494582798&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지 설사",
+   "desc": "어제부터 강아지가 계속 설사를 하는데 혈변 같기도 하고…. 밥은 안먹다가 어제 저녁은 또 다 먹었어요 물도 잘... 11살인데 걱정되네요ㅜ 전날 블루베리를 좀 많이 먹긴 했습니다 강아지 설사 관련 정보 드려요. 이 내용 참고하시면 도움...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494240435&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "외국 키즈유튜버 찾아주세요ㅜ",
-   "desc": "... 정도고 미국인거같은데 너무 외국인처럼 생기진 않았고 집이 큰 저택이고 약간 주인공방에서 어머니가 깨우면서 시작돼요 한 영상중에 동물들이 엄청 많아서 막 고양이나 강아지가 주인공 방에 칸막이?에 들어가있고 줄줄이 기타에...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=6&dirId=6130202&docId=494583783&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지가 과일을 먹을 수 있나요?",
+   "desc": "있다면 어떤과일인지알려주세요>< 강아지가 먹으면 안되는 과일 리스트가 있어요. 아래 내용 참고하시면 도움 되실것 같네요.",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=356120200&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "꿈해몽 해주세요",
-   "desc": "... 회색 강아지가 배 안에 있던 불구덩이에 빠져 죽었어 실제론 갈색 푸들... 했지 강아지는 사람보다 빠르잖아 회색 푸들이 뛰어 내려갔다가 불구덩이에... 때 강아지 호텔링 맡겨두고 다니거든 그뒤로 몇날며칠은 미친듯이 울기만 했어...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31505&docId=494580195&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "저희 강아지 백내장에 걸린걸가요?",
+   "desc": "... 저희 강아지 왼쪽 눈 백내장인거 맞나요? 이런 경험 있으신 분들 계신지요? 특히 수의사 님의 고견 듣고 싶습니다 아이가 백내장 증상에 마음이 많이 쓰이시고 힘드실것 같네요 ㅠ 백내장 관련해서 아래 내용 읽어보시면 도움이 되실것...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494233633&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "노견 치와와",
+   "desc": "저희 애가 이제 9살인데 이빨 힘도 예전보다 안좋아져서 장난감도 잘 못무는 편이고 체력도 별로 안좋아서 놀다가도 자러가는데 저는 제 첫 강아지라 보내기도 싫고 제 곁에 있어줬으면 좋겠는데 마음대로 되지가 않네요 이빨 안좋아도...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80208&docId=494361684&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "무당이든 어떤분이시든 꿈 해몽좀여ㅠㅠㅠ 찝찝해요",
+   "desc": "... 있던 강아지가 죽어 있는데 엄마가 차로 그 죽은 강아지를 밟고 갔어요 곁에 주인은 안보였고 주변 차도 아무것도 없었어요ㅠ 2. 두번째 꿈은 제가 양 손에 뾰족한 칼 두개를 손에 하나씩 쥐고 높은곳에서 혼자 그네를 타고 있는...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31505&docId=494594399&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "개 고양이 동물은 어떻게 새끼 생기나요?",
+   "desc": "... 교배하는 과정에서 타잉 현상이라는 것이 있는데 서로 접촉하며 두 강아지의 엉덩이가 붙은 상태가 10~30분간 유지됩니다. 정자가 안전하게 이동하는 자연스러운 현상이며 아기가 생기게 됩니다.",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=7&dirId=7011401&docId=494598176&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "옆집에 문이 열려 있고",
+   "desc": "... 냄새는 잘 맡쟎아요 강아지가 후각 능력이 뛰어난 것은 사실이지만, 집을 나가 멀리 가버린 상황이라면 자력으로 찾아 돌아올 가능성은 높지 않습니다. 자력 귀가가 어려운 이유 후각 추적의 한계: 아스팔트 도로, 자동차 매연, 강한...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=6&dirId=61303&docId=494438702&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "강아지 입술 색깔 변화",
+   "desc": "원래 검은색이였는데 오늘보니 갑자기 저럽니다 왜그런걸까요 ㅠㅠ 통증이 있어보이거나 헐어보이진 않습니다 ㅠㅠ 참고로 최근에 중성화한 여아입미다",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494597917&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "꿈해몽 부탁드려요",
+   "desc": "... 뱀들도 따라서 가다가 저 밑에 먼저 가고 있던 우리 애완견이랑 기억 안 나는 사람을 보고 두 마리가 슉~ 날아서 가길래 강아지 이름 부르다가 깼습니다 아직도 너무 무서워서 심장이 두근거려요 거대한 뱀, 특히 독사가 나오는 꿈은...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=814&docId=494597577&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "중성화 안한 암컷 강아지 유두 크기차이",
+   "desc": "암컷 페키니즈이고 중성화를 안했어요 유두가 3번째 라인이 다른 유두에 비해 색이 검고 부었는데 혹시 문제가 있는 걸까요? 8세입니다! 8세 페키니즈라면 유선 종양 가능성을 완전히 배제할 수 없으니 동물병원에서 초음파 검사를...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494597574&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "강아지 알러지 검사 결과지",
+   "desc": "강아지 알러지 검사 결과지입니다. 알러지 있는건 (밀)밖에는 없는건가요? 해석 부탁 드려요. 네 검사항목 중에는 밀 알레르기만 있네요 1단계라 밀 알레르기도 심한건 아닙니다 참고하세요",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494587312&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "강아지 간식 보관 실수",
+   "desc": "안녕하세요. 아이 간식 보관 관련해서 질문드립니다. 오늘 동결건조 북어 제품을 구입했는데요 방 안 TV 바로 앞에 간식을 놓아두는 바람에 포장지가 뜨거워질 정도로 열을 받았습니다. 포장지 겉면이 뜨끈해져서 비닐/플라스틱...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494593894&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "강아지가 밥시간이 아닌데 밥 먹고 싶어하는 것 같아요",
+   "desc": "... 정도 된 강아지가 있는데 제가 2개월 땨 봤던 영상에서 밥... 새끼 강아지일 때만 그런 거고 6-12개월부터는 12시간에 한... 주는데 강아지가 지금 6시간 지나니까 막 밥 ㅣ그릇핥고 사료봉투 바라보고 막 그러는데 저히 집 강아지...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494593852&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "강아지 반대",
+   "desc": "강아지 키우는 사람들이 다들 하나같이 반대하는데 왜 그런걸까요 아마도 생각보다 책임과 의무가 중하게 느껴져서 그러시는것 같습니다. 저도 여행 간지가 언제인지 기억도 안나네요~^^;",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050104&docId=494595590&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "강아지 소변 핥음",
+   "desc": "수컷 말티푸를 키우는데 얘가 소변을 보고 생식기를 핥더라고요. 괜찮은 건가요 원래 핥나요..? 네 스스로 그루밍하는 겁니다 개는 원래 발이나 생식기에 오줌 묻으면 핥습니다 정상이니 걱정 안하셔도 됩니다",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494595940&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "강아지 이거 어디가 아픈걸까요ㅜㅜ",
+   "desc": "강아지가 한 2주전부터는 밥을 잘안먹고 한 3일전부터는 굳이 좋은 침대 두고 옆에 조그만한 바닥에서 자고 책상밑에 있는데 이거 어디가 아픈걸까요? 너무 더워서 그러는것 같네요.",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494597025&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "2개월 반 된 강아지가 계속 발을 물어요",
+   "desc": "... 생후 2개월 반이면 우리 아기 강아지에게 있어 세상 모든... 생후 2~3개월 차 아기 강아지들은 이빨이 나면서 잇몸이... 하면, 강아지 입장에서는 \"아, 보호자님이 나랑 같이... 강아지의 솔직한 머릿속에서는 \"내가 사람 발을 꽉 물었더니...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050104&docId=494593839&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "반려견 7살인데",
+   "desc": "... 사실 일곱 살이라는 나이는 우리 강아지에게 참 특별한 시기예요. 여전히 우리 눈에는 애기 같고 사랑스럽지만... 우리가 기름진 음식을 많이 먹으면 속이 더부룩하고 불편해지는 것처럼, 강아지의 몸속 장기들도 기름기에 유독...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494595634&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "강아지 알러지 간식, 영양제, 밥 토핑 추천해주세요",
+   "desc": "강아지가 식이 알러지가 심해요! 강아지에게 사료만 먹일 수는 없어서 간식... 그리고 강아지가 먹을 수 있는 음식도 알려주시면 감사하겠습니다!!... 저도 사료를 알아보다가 쿠팡에서 강아지 사료를 검색하면 이용할 수 있는 수의사 1:1...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50801&docId=482860794&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "강아지 방광결석 바로 수술해야하나요? 급합니다..",
+   "desc": "... 강아지가 혈뇨를 보이고 결석이 확인되었다면, 당장 컨디션이 좋아 보여도 방광 내 결석이 요도를 막을 위험이 있어 수술을 권유받으셨을 거예요. 방광결석은 크기나 위치에 따라 소변 흐름을 갑자기 차단할 수 있는데, 이 경우...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494597002&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "강아지가 너무 키우고 싶은데 엄마가 허락을 안해줘요",
+   "desc": "제가 진짜 몇 년 전부터 강아지를 너무 키우고 싶다고 계속 말하고 있는데 엄마가 절대 안 된다고 하세요... 이유는... 허락받아서 강아지 키우게 된 분들은 어떻게 설득하셨나요? 그냥 계속 이야기하는 게 나을까요, 아니면 제가 책임감을...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494587073&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "천안에서 가장 감성 넘치는 책방&북카페는 어디일까요?",
+   "desc": "... 운이 좋으면 강아지도 볼 수 있어요. ㅎㅎ https://www.instagram.com/dailybooooks 가문비 나무아래 : 불당동. 다양한 강연을 개최합니다. 충남 천안시 서북구 불당34길 3-20 쏠플라자 3층 https://www.instagram.com/gamunbinamu_under 다른...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=12&dirId=121507&docId=494577811&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "(긴급) 강아지 혀 청색증인가요?",
+   "desc": "갑자기 오늘 퇴근하고 산책하면서 보니깐 혀에 반점이 있더라고요.. 이게 청색증인가 너무 걱정돼서 올려봐요 ㅜㅠ 첫번째 사진이 아까고, 두번째 사진이 2시간 지난 지금입니다... 아니면 그냥 멍들은걸까요 ㅠㅠㅠ 하 미치겠어요...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494596187&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "강아지 몸에 벌레가 기어다녀요",
+   "desc": "집에서 키우는 강아지고 외출은 산책나갈때 빼곤 안합니다 외부 기생충약 바르고 산책시 벌레 기피제 다 뿌리고... 다녓는데 강아지 몸에 피딱지같은게 생겨서 확인해보니 이런 벌레가 기어다녀요.. 병원가서 약 처방받는거 말곤 답...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494596326&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "로블록스 재밌는 게임 어디 없나요?",
+   "desc": "... 작은 강아지나 고양이를 키우듯 천천히 모으는 맛이 있어요 Adopt Me는 아기 돌보듯 집 꾸미고 교류하는 느낌이라 편하게 하기 좋고 Brookhaven은 역할놀이 중심이라 싸움 없이 놀기 좋을거에요! 조금 더 숨은 느낌으로는 Doors가...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=2&dirId=213&docId=494596415&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "강아지 오줌 대리석 사이 청소 문제",
+   "desc": "제가 키우는 강아지가 오줌 실수를 대리석 타일 사이에 저렇게 종종 하는데 물티슈나 물걸레로 아무리 닦아도 닦이지를 않네요 혹시 청소하는 방법이 있을까요 ? https://blog.naver.com/ecoorange/222161422106",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=435268494&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "강아지 봉합 벌어짐",
+   "desc": "중성화 수술 직후인데 이게 정상이 맞나요?(수술당일) 병원에서는 약만 바르면 될거같다고 내일 오라하는데 내일 가서 다시 봉합해달라고 해야할까요? 다시 봉합해야겠네요.",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494596115&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "강아지 간식 보관",
+   "desc": "안녕하세요. 아이 간식 보관 관련해서 질문드립니다. 오늘 동결건조 북어 제품을 구입했는데요 방 안 TV 바로 앞에 간식을 놓아두는 바람에 잠깐이지만 포장지가 뜨거워질 정도로 열을 받았습니다. 포장지 겉면이 뜨끈해져서 비닐...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494594281&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "강아지 항문낭 짜다가 부엇러요",
+   "desc": "매달 미용맡기는데 갑자기 강아지 항문에서 오징어비린내가 나서 강아지 항문낭을 짰어요 잘 못짜서 힘을... 피가 나거나 퉁퉁 부을정도로 심하게 부은건 아니라 하루정도 지켜보시면 될 것 같습니다 근데 강아지가 계속 핥으려고 하고...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494593307&qb=6rCV7JWE7KeA&enc=utf8"
+  },
+  {
+   "keyword": "강아지",
+   "title": "강아지 동반 숙소추천",
+   "desc": "제목 그대로입니다 고양시에서 가까운 놀거리도 조금있는 애견 동반 숙소 추천 부탁드립니다 내공100 강아지와 여행다니며 기록하고 있습니다. 좋은 정보 공유되길 바랍니다^^",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=9&dirId=9011401&docId=363559982&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
    "title": "외부바퀴인지 봐주세요.",
-   "desc": "강아지랑 있다가 싸해서 거실 보니까 바퀴 큰거 한마리 지나가고 있었습니다. 날진 않았어요. 엄청 컸습니다. 베란다쪽에 방충망도 엄청 오래되서 구멍이 나있고 그러는데 10층까지 기어올 수 있나요? 그리고 외부바퀴 인가요?",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=11&dirId=111603&docId=494583570&qb=6rCV7JWE7KeA&enc=utf8"
+   "desc": "강아지랑 있다가 싸해서 거실 보니까 바퀴 큰거 한마리 지나가고 있었습니다. 날진 않았어요. 엄청 컸습니다. 베란다쪽에 방충망도 엄청 오래되서 구멍이 나있고 그러는데 10층까지 기어올 수 있나요? 그리고 외부바퀴 인가요?...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80510&docId=494583570&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지 되찾아 올수 있을까요?",
-   "desc": "... 여자.양력.1988.04.24.오전08시55분 강아지가 죽었더라도, 스톤이라도 남자친구에게서 받아오고 싶어서요. 되찾아... 단, 감정적인 대화보다는 \"강아지 생각이 나서\"라고 가볍게 꺼내는 쪽이 현명해요. 혹시 끝내 돌아오지 않더라도...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31501&docId=494575865&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지 사료 안먹음",
+   "desc": "10살 넘은 노견인데 원래 사료 환장하고 먹어요. 근데 캔이랑 화식 섞어주기 시작하니까 사료를 아예 안먹어요..ㅡㅡ 섞어줘야먹고 사료만주면 입에도안대요. 걱정돼서 화식 또 섞어주면 기다렸다는듯 바로 먹는데, 사료 다시 먹이는법...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=493310841&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지 바다수영",
-   "desc": "강아지 데리고 바다 수영하려고 하는데 강아지용 샴푸를 안가지고 왔어요ㅠㅠ 그냥 물로만 씻겨도 될까요? 말티즈에요 일단 깨끗한 물로 잘 씻어내고 잘 말려주기만 하시면 됩니다. 마사지와 브러쉬질로 마무리 해 주시면 더욱 좋습니다.",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494577388&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "1일 아르바이트 세금 신고 질문",
+   "desc": "그냥 강아지 산책이나 강아지 맡아주세요, 애기 어린이집 데려다주기, 단기ㅜ설거지 급구 이런거 자주했을 때 ( 4대보험 ㄴㄴ 세금 신고는 저쪽은 개인이니까 안 했을 수도있잖아요) 이렇게 받은 돈은 국세청에서 세무조사오나요??...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40309&docId=494592348&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지랑 여름 산책 나갈때 뭐 챙겨야 할까요?",
-   "desc": "요즘 날씨가 너무 더워져서 강아지 산책 시간을 아침 일찍이나 해 질 무렵으로 바꾸고 있는데, 그래도 밖에 나가면... 강아지가 더위 먹지 않게 안전하게 산책시키고 싶어요. 여름 산책에는 시원한 물, 접이식 물그릇, 배변봉투, 젖은...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494572822&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지 사료 안먹음 제발",
+   "desc": "남친 강아지고 원래 사료 환장하던앤데 제가 남친이랑 동거를 시작하면서 맛있는거 많이 주고싶어서 화식이랑 캔이랑 닭가슴살, 단호박 이런거를 섞어줬어요. 근데 그거 먹은 후로 이렇게 골라먹어요. 건사료만 단독으로 주면 아예...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=493407524&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "저의 추억의 강아지 인형을 찾습니다.",
-   "desc": "... (보통 강아지가 앉아있는 자세가 아닌 아기처럼 앉아있는 자세) 파란색... 사진에 나와있는 강아지 외형이랑 비슷합니다. (비슷하기만 할 뿐 저렇게... 슈나우저 강아지 인형으로 판촉물은 아닙니다. 오래된 빈티지 제품 특성상 현재...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494520918&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지 사료 편식",
+   "desc": "8개월된 진도 믹스인데 사료를 너무 안 먹어요. 당근이나 고구마 등을 섞어줘도 그것만 핥아먹고 사료는 뱉고 화식도 해봤는데 화식만 골라먹네요. 건사료를 갈아서 같이 주라는데 그러면 얘는 그냥 안 먹을 애예요. 가뜩이나 식욕이...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494248018&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "아기 강아지 사료 양",
-   "desc": "1개월 좀 넘은 아기강아지고 1키로 정도 되는데 사료양이 가늠이 안 가서요ㅠㅠㅠ 하루에 세끼 먹이고 있는데 한 번에... 새끼강아지는 하루 4회급여 추천드리고 사료를 물에 충분히 불린 후 으깨서 급여하시면 됩니다 변 상태가 괜찮으면...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80201&docId=494582764&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지 알러지에 좋은 사료 추천해주세요",
+   "desc": "강아지 알러지에 좋은 사료 추천해주세요 울 아가는 말티즈고 10살이에요 기호성까지 챙길려면 펫더라이프 추천드려요~",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494339033&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "아기푸들 너무 소심해요",
-   "desc": "... 가끔 같이 놀 때 손이나 발을 앙앙 물려고 하는 행동 역시 나쁜 마음이나 공격성이 아니라, 아기 강아지들이 세상을 배우고 교감하는 자연스러운 과정일 가능성이 커요. 이 시기의 아기들은 사람처럼 손을 자유롭게 쓰지 못하기 때문에...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050104&docId=494578780&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지 신장췌장사료 추천",
+   "desc": "울애기가 신장 췌장이 안좋아서 입맛이 없습니다 신장췌장에 좋은 사료 추천부탁드려요 로얄캐닌,닥터맘마 신장사료 꾸준히 잘먹다가 최근에 질리다고 안먹습니다. 새로운 사료 찾고 있어요 펫더라이프 섞어서 급여하는데 조지방 낮고...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50502&docId=402588934&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "마메시바랑 그냥 시바랑 성격이 다른건가요",
-   "desc": "... 하는강아지입니다 내외부기생충 신장사상충... 강아지유치원보내면 말잘듣고 한다고 다들 좋아하시고 산책은... 시켜줬고 강아지유치원도 일주일에 한번씩 보내요 워낙 사람들도 좋아하고 강아지들이랑 무척잘지냅니디 오히려...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494582633&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지퍼피사료 어떤게 좋나요?",
+   "desc": "새끼 아이입니다. 강아지 처음 키우게 되었는데 사료 어떤거 살지 몰라서 그러는데 가격은 좀 나가도 괜찮은데 아이들 성장에 좋은 강아지퍼피사료 추천 부탁드립니다. 로얄캐닌이나 힐스에 펫더라이프 섞어서 급여하면 잘 먹어요!",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=477682483&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지가 눈 한쪽만 자꾸 감아요",
-   "desc": "강아지가 눈을 한쪽만 계속 깜빡거리는 데 이거 건조해서 그런 건가요?ㅠ 도쿄의 하이엔드 반려 라이프를 전하는 해외구매대행 공식 스토어 [셀링도쿄]입니다. 사랑스러운 아이가 한쪽 눈을 자꾸 찡긋거리니, 어디가 아픈 건 아닌지...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494579571&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지 기호성 좋은 사료나 간식",
+   "desc": "강아지 훈련하는데 사료로는 애가 안 움직여서 간식을 주면서 훈련 했었는데 아무래도 간식은 칼로리도 높고 강아지가 점점 더...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=493204613&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지가 오른쪽 귀를 자꾸 털어요ㅠ",
-   "desc": "안에 털이 들어간걸까요..? 원래 쓰다듬으면 머리부터 엉덩이까지 쭉 쓰다듬는데 전엔 안그랬거든요ㅠ 갑자기 귀쪽을 만지기만하면 푸르르 털고 발로 막 긁어요 근데 엄청 심하다까진 아니고 두세번 털면 끝.. 왜그럴까요 도쿄 현지 펫...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494580615&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "남친이 저보다 이쁜데 어떡하나요..",
+   "desc": "... 키도 또래보다 상당히 크고 얼굴도 준수(잘생긴 편인 듯합니다)하고 깔끔하고 성격도 강아지 같이 애교도 많고 좋습니다. 하지만 제 내면 어딘가에서 자꾸만 불안감이 느껴지고 저는 솔직히 지금 외모도 화장빨 같고 여전히 뚱띠인데...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110307&docId=494594215&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지 비장 종양",
-   "desc": "강아지 비장에 6센티짜리 종양을 초음파로 봤는데 9살이고 병원에서는 악성 종양일 수도 있으니 수술 전 CT 촬영을 하자고 하눈데... CT 안 찍고 수술만 하게 됐을 때 악성 종양이면 수술한 게 의미가 없어지나요? 수술한다 해도 수술로...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494580922&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지사료 질문드려요",
+   "desc": "2개월반 토이푸들인데요 눈물나는데 로얄캐닌 사료때문인거같아서요 히어로독 연어사료로 바꿔보려하는데 다들 말이 좀 다르거라고요 눈물이나도 로얄캐닌이 영양분이 좋아서 먹여라 다른걸로 바꿔도된다 어케해야할까요.. 연어쪽...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=493945397&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지가 양파를 먹었는데 괜찮을까요..",
-   "desc": "... 우리가 즐겁게 먹는 양파에는 사람에게는 참 좋은 영양소지만 강아지 몸속에 들어가면 피를 만드는 작은 방울들을 살짝 자극할 수 있는 성분이 들어있을 가능성이 있어요. 마치 튼튼하고 예쁜 둥근 풍선에 작은 가시가 살짝 닿으면...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494582010&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "2살짜리 미니비숑이 사료를 잘안먹어요",
+   "desc": "강아지가 사료를 잘 안먹는데 건강하고 좋은 사료 추천해주세요!! 로얄캐닌이랑 펫더라이프 섞어서 급여하는데 잘 먹고 똥도 잘 눕니다! 고려해보세용",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494164822&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지 심장사상충약 유통기간",
-   "desc": "넥스가드 스펙트라 약을 병원에서 갑자기 네임펜으로 먹는날짜를 적어준다고 유통기간 위에 저렇게 써놓길래 좀 이상하네요. 제미나이한테 물어보니 2025년까지라고 하네요. 제미나이도 실수할때가 있어서 전문가님에게...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494581951&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지 발 변색",
+   "desc": "저희집 강아지가 예전부터 발을 핥아서 발 털색이 붉은색으로 다 변했는데 변한 털색은 안돌아오나요..? 이미 붉게 착색된 발 털 자체는 원래 색으로 돌아오기 어렵고, 새 털이 자라면서 서서히 회복되는 경우가 많아요. 핵심은 털색을...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494592479&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "2개월 새끼 강아지, 울타리 쳐야 하나요?",
-   "desc": "딱 5일 뒤에, 2개월 된 새끼 비숑 프리제 한 마리를 대려옵니다. 그래서 저는 울타리에 대해서 좀 알아보고 있는데 각자 장단점이 좀 있더라고요. 장점으로는 안전상의 이유로 안심이 되고, 단점으로는 이 낑낑대는데 무시하는 그 모습이...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050104&docId=494573405&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "꼬숑 3개월된강아지 키우는데 사료 뭐가 좋을까요?",
+   "desc": "3개월된 꼬숑 강아지를 분양받아서 키우고있는데 분양 받았을때 펫샵에서 먹던사료라고해서 샀는데 이제는 다른 사료를먹여야 할 것같아서 병원에서 5차 주사맞으면서 물어보니까 다른 사료 먹여도된다고했는데 지금 이 시기에는...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494083750&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지 무료 분양 한다는거 거의 사기인가요?",
-   "desc": "파양 당한 강아지들 무료분양 하는거 거의 사기인가요? 막상 가보면 돈 내라고 할까요?... 안락사 위기인 강아지들이 많습니다. 앞으로 안락사 예정인 강아지들 글이 자주...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80101&docId=494059011&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "퍼피 사료",
+   "desc": "... 사료를 조금 바꾸고 싶은데 워낙 강아지마다 다르니.. 추천 받고 싶어서요~~ 현재 나우, 오리젠, 화이트 도그 알아보고 있는데 이 외에도 추천할 만한 제품이 있을까요?? 눈물 사료나 영양제 추천 해주세요! 그리고 둘 다 뛰어다니고...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=7&dirId=71104&docId=493949943&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지 경계성 짖음",
-   "desc": "1년된 말티푸를 키우고 있어요 . 어렸을때 부터 경계성 짖음이 너무 심해서 산책할때마다 힘들어요 ㅠㅠ 유튜브 보고 열심히 따라해도 안되더라구요 ㅠㅠ 근데 우산을 한번들고 나가서 산책한적이 있는데 짖을려고 할때 우산으로...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050104&docId=494575459&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지 사료안먹음",
+   "desc": "9살강아지가 사료를 안먹어서 나이도 잇어서 이가아파서 안먹나 해서 물에불러줫는데 잘먹더라고요 그럼이제 맨날 불려줘도 괜찮은건가요? 아니면 물에불린거 계속주면 안좋나요! 알러주세요 원육 함량 높은거 주면 잘 먹더라구요! 저는...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494259584&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지무료분양받을 수 있는 곳?",
-   "desc": "... 아이도 강아지가 이쁜지 계속 갖고 싶다고... 있는 강아지무료분양 알아볼 데가 있을까요? 직접 찾아볼 수 있는 강아지무료분양... 안락사 위기인 강아지들이 많아요. 앞으로...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=396880074&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "유기견 입양했는데 사료를 안먹습니다.ㅠㅠ",
+   "desc": "... 탐내고 강아지 간식(소고기.닭고기육포.강아지용 닭가슴살.고구마말랭이.개껌.동결건조북어) 다 잘먹습니다. 근데... 병원에선 일주일을 물만 먹어도 강아지는 산다고 굶겨보라는데.. 2.9~3.2kg 밖에 안나가요ㅠㅠ 굶기는건 너무...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494463028&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지 무료분양하는고 있을까요?",
-   "desc": "강아지 키울 여건이되서 키울려고하는데... 워낙 강아지를 좋아해서 펫샵보다는 유기견... 안락사 위기인 강아지들이 많아요. 앞으로 안락사 예정인 강아지들 글이 자주...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=462676589&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "1개월 강아지 밥을 잘 안먹어요",
+   "desc": "폼숑이고요, 곧 6주되요 몸무게 800g인데 오리젠퍼피사료 먹이고있어요 근데 애가 식욕이없는것같아요 2시간 30분 간격으로 밥주고있는데(한번에 4~5g) 한번은 먹고 그다음은 절반먹고 그다음은 다먹어요 며칠전에 2시간간격에서...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494592782&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지 심장사상충약",
-   "desc": "을 방금 먹였는데요 다이로하트 입니다 근데 유통기한을보니 7월 30 일까지네요 괜찮을까요? 애기는 잘 놀고 잘 먹어요 유통기한이 지난 지 며칠 되지 않은 심장사상충 예방약을 한 번 급여한 경우라면 대부분 큰 문제 없이 지나가는...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494575736&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지한테 손가락 물렸는데 어떡하죠",
+   "desc": "강아지 발톱깎이려다 물렸는데 어금니로 제 손가락을 세게 물었어요 강아지 광견변 주사랑 여러 주사 안맞춘지 4년정도 됏어요 병원가서 무슨주사를 맞아야할까요? 상처는 작은데 세게물어서 뼈가 좀 아려요 안녕하세요. 하이닥-네이버...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494593173&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "대구 강아지 분양 보내는 방법 알려주세요",
-   "desc": "유기견을 데려오고 칩까지 심었는데 저희 집 강아지들과 합사가 안돼서 다른곳으로 보내려고 합니다 대구에 보낼곳... 돈만 내면 모든 동물을 받아주는 곳 (학대 위기나 안락사 위기에 놓인 강아지도 수용공간이 없어서 보호소에 못...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=494573438&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "고양이 가정분양",
+   "desc": "... 랙돌이나 브리티시 기준으로요 가정분양이면 예방접종이나 건강검진은 받고 분양해주죠? 도그짱 포인핸드에는 많은 강아지들과 고양이들이있어요 파양견 유기견이지만 너무예쁘고 소중한 아이들이랍니다",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=805&docId=494593776&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "울산강아지분양 다들 어디서 하셨나요?",
-   "desc": "울산강아지분양 알아보는데 울산이 크지도... 울산강아지분양 다들 어디서 하셨는지... 강아지 입양은 아래 보호소에서... 안락사 위기인 강아지들이 많아요. 앞으로 안락사...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=465911641&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "경기도 15년 된 34평 아파트 인테리어 비용 문의",
+   "desc": "... 일단 마루 시공(강아지가 있어서 안미끄러운 장판으로 하려고요) 2. 거실,안방 화장실 올수리 3. 주방 올수리 4. 거실 베란다가 두개 있는데 여기가 더러워서 타일이랑 페인트 시공 다시하고 싶어요. 5. 현관 중문이랑 베란다 출입문...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=808&docId=435169704&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강남강아지분양 받을생각입니다",
-   "desc": "안녕하세요 강남강아지분양 받으려고 하는데 괜찮은 곳 있으면 추천부탁드립니다... 안락사 위기인 강아지들이 많아요. 앞으로 안락사 예정인 강아지들 글이 자주...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=365550085&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "애견카페 창업",
+   "desc": "... 저도 반려동물을 워낙 좋아하다 보니 처음엔 막연하게 \"좋아하는 강아지들과 매일 함께 일하면 행복하겠다\"는 생각으로 애견카페 창업을 진지하게 알아봤었습니다. 하지만 꼼꼼하게 실상을 파악해 보니 현실적인 벽이 너무...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40703&docId=487921756&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "중성화 수술",
-   "desc": "강아지 중성화 수술 후 실밥 푼 지 2개월 정도 지났습니다. 잘 아물기까지 했었는데 녹는 실에 계속 만져지다가 서서히 녹는 것 같이 일부분만 볼록 튀어나오더라구요. 그래서 전 밑에 실이 녹아서 그런 줄 알았습니다. 근데 한 3일 뒤?...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494579048&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "5~6개월 강아지 노란거품토",
+   "desc": "5~6개월 정도 된 강아지가 오전 10시에 손으로 오케이 사인 만들 때 생기는 원 크기 정도로 토를 했어요ㅜㅜ... 강아지 구토의 원인은 너무나 다양합니다. 이물을 비롯해 췌장염, 위염, 간질환, 신장질환, 스트레스, 체질에 맞지 않는...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494587000&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지 물림 어떻게 해야하나요",
-   "desc": "제가 저희집 강아지 간식을 주다가 물렸는데 쌀알보다 작은 크기에 상처가 생겼어요 미세하게 피가 났는데 병원에... 키운 강아지라 예방접종 유무는 모르겠어요 10살 넘은 강아지 입니다 안녕하세요. 하이닥-네이버 지식iN 상담의...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494580311&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지 피부 왜 이러는건가요?",
+   "desc": "... 강아지 피부염은 세균성, 곰팡이성, 기생충성, 알러지 및 아토피성으로 크게 구분하고 정확한 것은 검사를 통해 파악할 수 있습니다. 일반적으로 피부염은 초기치료가 상당히 중요합니다. 방치하게 되면 진행되어 상황은 더욱...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494590913&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "인천강아지분양하는곳",
-   "desc": "저희집가아지를 키울수없어분양합니다4마리고세끼2마리요토끼도있고분양할때없을까요 신종펫샵에 보내지 마세요 큰일납니다. 유튜브에 신종펫샵을 검색하면 구분법 확인 가능합니다. 아래 사진 참고하세요. '안락사 없는 보호소...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=327763193&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "평택 강아지 분양좀 받을려고 하는대요",
+   "desc": "친절 하고 너무 무리한요구 안하고, 합리적인 가격에 분양해주는곳(너무 싼곳 찾는것도 아님) 추천좀 부탁드릴게요 멍스테일평택점은 '분양'보다 '평생 함께할 반려생활의 시작'을 더 중요하게 생각합니다. 아이들의 건강을...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=494004066&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "보신탕을 한번도 안먹어봤어요 보신탕 맛집 추천 부탁...",
-   "desc": "... 강아지를 살면서 키워본적은 없지만 좋아합니다. 안키운 이유는 어렸을때 큰 강아지에게 청주 어딘가 공원에서 강아지 주인이 목줄 안잡고 풀어줘서 물린적이 있어요. 부모님도 물릴까봐 강아지를 못키우게 하셨고요. 서울 경기 충북...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=11&dirId=111002&docId=494274470&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "너무 힘듭니다",
+   "desc": "... (마태오15:26~28) 예수님께서는 “자녀들의 빵을 집어 강아지들에게 던져 주는 것은 좋지 않다.” 하고 말씀하셨다.... 그러나 강아지들도 주인의 상에서 떨어지는 부스러기는 먹습니다.” 하고 말하였다. 그때에 예수님께서 그...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60901&docId=494590468&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "5살 강아지 마취 스케일링",
-   "desc": "올해 5살된 폼피츠 스케일링 해도 될까요 마취로 인한 사망도 많아서 무서워요.. 안녕하세요. 지식iN 동물의료상담 수의사 새은평동물의료센터장 버드나무 이상철입니다. 치석이 존재하는 상황에서 내과적인 처치나 양치의 효과는...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494577204&qb=6rCV7JWE7KeA&enc=utf8"
-  },
-  {
-   "keyword": "강아지",
-   "title": "강아지 배에 이게뭘까요?",
-   "desc": "궁금해요 원인이 뭔지궁금합니다 안녕하세요. 지식iN 동물의료상담 수의사 새은평동물의료센터장 버드나무 이상철입니다. 사진으로 유추하면 피부 농피증일 가능성이 높습니다. 일반적인 농피증은 황색포도상구균에 의한...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494575856&qb=6rCV7JWE7KeA&enc=utf8"
-  },
-  {
-   "keyword": "강아지",
-   "title": "강아지가 이틀째 아침에 간식+노란토를 합니다",
-   "desc": "안녕하세요 저희강아지가 갑자기 어제 아침부터 노란토+간식으로 추정되는... 줍니다 (강아지 동반출근해요) 그리고 일,월이 휴무여서 이때는 밥을 점심 12... 강아지 구토의 원인은 너무나 다양합니다. 이물을 비롯해 췌장염, 위염...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494573988&qb=6rCV7JWE7KeA&enc=utf8"
-  },
-  {
-   "keyword": "강아지",
-   "title": "물놀이후 생식기에서 피가 나요 약먹어야 하나요?",
-   "desc": "... 강아지 혈뇨의 원인은 너무나 다양합니다. 일반적으로 종양을 비롯해 비뇨기계 염증이나 결석 등으로 발생합니다.... 그리고 타이레놀과 같은 소염제는 강아지에게는 아세트아미노펜 중독으로 진행되는 치명적인 제제이므로 절대로...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494573776&qb=6rCV7JWE7KeA&enc=utf8"
-  },
-  {
-   "keyword": "강아지",
-   "title": "보신탕이 욕먹는 이유 (개고기)",
-   "desc": "... 소돼지닭이라고 생각해도 똑같음 강아지는 반려동물로 많이 키우는데 님은 강아지보면 음식이라고 바로 생각이... 일부 먹는사람빼면 강아지를 반려동물로 생각하지 누가 먹는거라고 생각함? 애초에 그냥 음식이라고 생각이 안듦 그럼...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8020605&docId=494225823&qb=6rCV7JWE7KeA&enc=utf8"
-  },
-  {
-   "keyword": "강아지",
-   "title": "강아지가 갈색 묽은 토를 했어요 (사진0)",
-   "desc": "... 강아지 구토의 원인은 너무나 다양합니다. 이물을 비롯해 췌장염, 위염, 간질환, 신장질환, 스트레스, 체질에 맞지 않는 사료나 간식과 같은 원인으로 발생할 수 있습니다. 상황이 지속된다면 병원에서 정확한 진단과 적절한 처치...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494573039&qb=6rCV7JWE7KeA&enc=utf8"
-  },
-  {
-   "keyword": "강아지",
-   "title": "강아지 눈이 왜 이러죠",
-   "desc": "자꾸 긁길래 봣는데 실금 얇기로 이런게 잇어요 첨에는 털붙은건줄 알앗는데 털이 아닌가봐요 각막궤양인가요..?? 왜 갑자기 .. 산책도 짧게가고 집에 다칠만한 것도없는데 뭐가ㅏ 원인일가요.... 안녕하세요. 지식iN 동물의료상담 수의사...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494572519&qb=6rCV7JWE7KeA&enc=utf8"
-  },
-  {
-   "keyword": "강아지",
-   "title": "강아지 토",
-   "desc": "아침에 강아지 토하는 소리 듣고 나와봣는데 회색 이물질 덩어리 토를 했더라고요. 만져보니까 실이랑 머리카락이랑... 강아지 구토의 원인은 너무나 다양합니다. 이물을 비롯해 췌장염, 위염, 간질환, 신장질환, 스트레스, 체질에 맞지...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494571718&qb=6rCV7JWE7KeA&enc=utf8"
-  },
-  {
-   "keyword": "강아지",
-   "title": "이럴땐 어떤 병원을 가야되나요?",
-   "desc": "... 저녁에는 안먹고 러닝 한시간하고 강아지랑 산책 한시간합니다. 3~4주간 계속 같은 몸무게 인데요. 오토파지인가? 그거 해보려고 5일간 굶어도 보고 했는데 똑같아요. 혹시 호르몬적으로 문제도 있을까요? 밤에 야식안먹고 군것질...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=7&dirId=706&docId=494580345&qb=6rCV7JWE7KeA&enc=utf8"
-  },
-  {
-   "keyword": "강아지",
-   "title": "컴투펫 펫샵인가요",
-   "desc": "... 품종견 새끼강아지가 수두룩하고 서울본점/수원점 이런 식으로 지점들이 지역별로 여럿 존재, 안심입양/책임입양/파양입소신청/안락사없는유기견보호소/분양&입양시 3만원용품 쿠폰증정 등등 이러한 문구로 홍보합니다 보호소...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494579242&qb=6rCV7JWE7KeA&enc=utf8"
-  },
-  {
-   "keyword": "강아지",
-   "title": "강아지영양제",
-   "desc": "강아지를 처음 키워요 10개월이고 비숑 몸무게는 2.4키로입니다 확실히 무슨알러지는 모르겠지만 자꾸 긁어서... 반려동물 전용 헴철 영양제로 가용성 헴철을 사용해서 흡수율이 좋고, 어린 강아지들의 성장기 영양 관리와 활력 관리...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494029607&qb=6rCV7JWE7KeA&enc=utf8"
-  },
-  {
-   "keyword": "강아지",
-   "title": "유기견 무료 입양하는 곳",
-   "desc": "... 안락사 위기인 강아지들이 많아요. 앞으로 안락사 예정인 강아지들 글이 자주 올라오니깐 관심 가져주시고 공유 부탁드립니다. 일부 보호소는 입양하면 입양 지원금도...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=484545145&qb=6rCV7JWE7KeA&enc=utf8"
-  },
-  {
-   "keyword": "강아지",
-   "title": "어머니 건강 문제로 인해 13년 정도키운 강아지를...",
-   "desc": "현재 어머니가 암수술도 받고 건강도 안좋으신데 강아지2마리 케아하기 힘들어 하십니다 13년정도 2마리를 키웠데 어찌해야 할지 모르겠네여 주변지인 저는 키울형편이 안되고 현재 답답한 상황입니다 두마리중 한마리가 자꾸 다른...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=7&dirId=7010105&docId=492687908&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지한테 미안해요.",
+   "desc": "... 터그놀이 공놀이 잘해주는것같은데..요샌집에서보믄 잠만자고 지루해보여요 .강아지가 . 포메 두살 5.6킬로인데 숫컷. 어떻게해야좋을가요.ㅠ 포메라니안은 원래 활동량이 많아 보이지만, 두 살 정도 되면 체력이 안정되면서 낮에...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=494592241&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
    "title": "강아지 파양",
-   "desc": "강아지 파양할려고 그러는데 광주나 목포에 파양 되는 곳 있을까요?? 중형견인데 이제 1~2살 됐을걸요..? 이사가서 못키워서 파양할려고… 아이가 아직 나이가 어려 가정입양사이트에 올려보시는걸 추천드립니다. 만약 입양문의가 없을시...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=489880724&qb=6rCV7JWE7KeA&enc=utf8"
+   "desc": "... 강아지를 입양해서 8개월 정도 키웠었습니다 일단 파양하게된 원인은 아버지께서 강아지가 주인도 못알아보고 으르렁 댄다고 교육을 시킨다고 옛날 방식으로 해서 강아지가... 동생들이 강아지를 키울 때 지키겠다는 약속을...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=438756612&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지 파양",
-   "desc": "안녕하세요 아이가 태어나게 되어서 비숑 강아지를 파양을 해야하는데 짖는게 너무 심해서 파양을 결심했습니다 ㅠ... 솔직히 강아지 키우셨다싶이 무일푼으로 아이를 케어할수는없습니다. 보호소가 무료봉사도아니고.. 보호소도 아이...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=492784406&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "특수청소 의뢰시",
+   "desc": "12평정도 되는 투룸이구요 베란다까지 있습니다 강아지 털이랑 냄새까지 다 정리해서 청소 의뢰한다면 대충 비용은... 12평 투룸에 베란다가 있고 강아지 털과 냄새 제거까지 요청하면, 짐이 없는 일반 오염 기준 약 34만~40만원 정도로...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80901&docId=487684255&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "이 애기 강아지 어떤 믹스견일까요ㅠㅠ",
-   "desc": "구조된 애기 강아지가 보호소에서 지내고 있다는데 데려오고싶어서요ㅠㅠ 근데 애기가 믹스견이라고만 나와서 나중에 많이 크게 된다면 못 키우니 미리 확실히 알고 입양하고싶어서요ㅠㅠ 60일 미만 2개월 추정된다하고 0.79kg...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494578488&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "추억의 책 찾아주세요!!!",
+   "desc": "... 15살 정도 되는 여자애였궁요 강아지 산책시키는 알바를 하는 내용이 있는 책이었어요. 동화책은 아니고 딱 초등 고학년에서 중1 정도 수준의 청소년 소설 느낌이었는데 후속작으로 백문백답 형식의 일기장? 책?도 나와서 사서 쓰곤...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80606&docId=494592178&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "도와주세요ㅜ알바",
-   "desc": "... 애견카페는 강아지 밥주기 청소 손님 응대가 있어서 작은 강아지 돌보듯 꼼꼼함이 필요하구요 알바몬 알바천국에서 잠실 성남으로 검색하고 네이버 지도에서 애견카페에 직접 전화해보는 게 가장 빨라요 성실함은 진짜 큰 장점이라...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40611&docId=494579059&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "강아지가 너무 많이자요",
+   "desc": "어디 아픈건 아니겠죠?ㅠㅠ 일단 한살된 말티즈구요… 밤에 자고 일어나서 활동을 할줄 알았는데 일어나사도 계속 자요ㅠㅠ 왜그럴까요 강아지가 우ㅜㄴ래 많이 자는건 아는데 혹시 어디 아픈건 아니겠죠… 강아지때는...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494590927&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "강아지",
-   "title": "강아지 파양",
-   "desc": "안녕하세요 이런 글 쓰는거 자체가 잘못됬지만 강아지를... 바람에 강아지를 케어할수가 없습니다 사료 살 돈도 없어서 주변 강아지 키우는 지인한테 사료 받아오고 수도까지... 기숙사라 강아지를 못데려갑니다 파양샵 알아보니 돈이...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=471481333&qb=6rCV7JWE7KeA&enc=utf8"
-  },
-  {
-   "keyword": "강아지",
-   "title": "연애 못 하는 이유........ㅠㅠ",
-   "desc": "... 숙제 물어보기 시험 어땠냐고 묻기 급식 이야기하기처럼 가벼운 말이 제일 좋아요 처음부터 잘 보여야 한다고 생각하면 더 얼어붙으니 그냥 낯선 강아지한테 손 천천히 내미는 느낌으로 가면 돼요 조심스럽지만 꾸준하면 상대도 덜...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=814&docId=494577639&qb=6rCV7JWE7KeA&enc=utf8"
-  },
-  {
-   "keyword": "강아지",
-   "title": "강아지가 자꾸 다른 강아지 머리위에 앉아요.",
-   "desc": "... 강아지들 사이의 서열이 안 잡힌걸까요? 꼭 서열이 안 잡혀서 그런 행동이라고 보기는 어렵습니다. 강아지들... 어린 강아지 특유의 거리감 없는 행동 - 상대의 반응을... ** 강아지들의 관계는 상황과 여러 행동을 함께 봐야 합니다....",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=494538116&qb=6rCV7JWE7KeA&enc=utf8"
-  },
-  {
-   "keyword": "강아지",
-   "title": "강아지 신부전",
-   "desc": "(14살강아지 몸무게4초반) 2/27:번29 / crea1.6, 3/31:번28 / crea2.5 / phos 2.9 / sdma21/뇨/혈압/+레나메진 복용 시작 4/28:번24 / crea 2 / sdma24 +레나메진복용 *5/22:번29/ crea 1.6/ phos 4.1 / sdma26.05/ Lipase 196(췌장) / Na 131 +아미나바스트(5-6월 한달복용) *6...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494576937&qb=6rCV7JWE7KeA&enc=utf8"
-  },
-  {
-   "keyword": "강아지",
-   "title": "강아지 사시인가요?",
-   "desc": "... 다만 어린 강아지는 얼굴과 눈 주변 근육이 아직 성장 중이라 사진 각도나... 어린 강아지는 각도나 성장 과정 때문에 그렇게 보일 수도 있습니다. 항상... 강아지 사시의 원인과 선천성 사시, 병원에 가야 하는 증상은 블로그에서도...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494550743&qb=6rCV7JWE7KeA&enc=utf8"
-  },
-  {
-   "keyword": "강아지",
-   "title": "강아지 피부 돌출",
-   "desc": "강아지가 8살인데 피부 돌출이 군데군데 이런식으로 보여요 보니까 조금씩 커지는 거 같애요. 혹시 뭘까요",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80201&docId=494576996&qb=6rCV7JWE7KeA&enc=utf8"
-  },
-  {
-   "keyword": "강아지",
-   "title": "lg 퓨리케어 공기청정기 a/s",
-   "desc": "lg 퓨리케어 공기청정기 콘센트선만 강아지가 물어뜯어서 전기가 들어왔다끊겼다하는데 콘센트만 교체할수있나요? 아이구, 반려견 키우다 보면 전선 물어뜯는 일 진짜 흔하게 생기는데 전기가 가끔 들썩거린다니 감전 위험도 있어서...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50104&docId=493067443&qb=6rCV7JWE7KeA&enc=utf8"
+   "title": "원래 강아지가",
+   "desc": "... 하루에도 두세번 싸는 사람 있듯이 강아지도 다 다르더라구욬ㅋㅋㅋㅋ 강아지 응가질감, 색깔에 이상 없으면 그냥 응가를 많이 하는 강아지일뿐 ㅋㅋ 어디가 아픈건 아닐거에욬ㅋㅋ 근데 보면... 저희집개는 좀 저렴한 사료로 바꾸면...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494591821&qb=6rCV7JWE7KeA&enc=utf8"
   },
   {
    "keyword": "반려견",
-   "title": "식사 전 긴장하는 강아지 이유",
-   "desc": "... 다견가정도 아니고 밥도 하루 2끼 제공합니다 반려견이 밥그릇 앞에서 긴장하고 행동이 느려지는 이유는 자원 보호 본능, 과거의 강압적 훈련 기억, 또는 식사 시간에 대한 높은 압박감 때문입니다. 주요 원인 자원 보호 (Resource...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494586290&qb=67CY66Ck6rKs&enc=utf8"
+   "title": "훗카이도에 강아지 카페가 있나요?",
+   "desc": "... 반려견 동반 가능 카페 및 독런(Dog Run) 시설 카페 내부에 상주견이 손님을 맞이하는 형태라기보다는, 견주들이... 본인의 반려견을 데리고 와서 함께 커피를 마시거나 뛰어놀 수 있는 공간이 주를 이룹니다. (예: 삿포로의 Bernard Square...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=11&dirId=11080406&docId=494601478&qb=67CY66Ck6rKs&enc=utf8"
   },
   {
    "keyword": "반려견",
-   "title": "강아지가 아이 팔뚝을 무는꿈",
-   "desc": "... 사랑하는 반려견이 어린아이를 무는 장면을 보셨다니, 꿈속에서 얼마나... 결론부터 다정하게 안심시켜 드리면, 이 꿈은 실제 반려견이 사고를 친다는... 꿈속의 반려견은 나를 보호하려는 '나 자신의 본능적인 방어기제'이거나, 나를...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=6&dirId=6130203&docId=494585918&qb=67CY66Ck6rKs&enc=utf8"
+   "title": "혹시 이것도 강아지 백내장 증상인가요..?",
+   "desc": "... 변하는 증상 (백내장 의심) 반려견의 건강을 세심하게 관찰하는 보호자의 세심함이 조기 진단과 치료에 큰 도움이 됩니다. 궁금한 점이 더 있으시다면 언제든지 남겨주세요. 제 답변이 도움이 되셨다면 소중한 채택 부탁드립니다.",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494598548&qb=67CY66Ck6rKs&enc=utf8"
   },
   {
    "keyword": "반려견",
-   "title": "개인회생이나.. 여러가지 신용회복제도",
-   "desc": "... 온 반려견까지 책임져야 하는 가장의 위치에서 매달 마주하는 카드값과... 10살 된 반려견의 양육비나 월세 전액이 법정 기본 생계비 외에 100% 추가... 다름없는 반려견까지 품에 안고 짊어지신 질문자님의 어깨가 얼마나...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60203&docId=494571712&qb=67CY66Ck6rKs&enc=utf8"
+   "title": "제가 드디어 스트레스로 폭발 한걸까요?",
+   "desc": "... 제 반려견이 오줌을 바닥에 싼거였어요 저희집 강아지 아라는 유기견이고 초반에 아무데나 싸다가 어느순간 밖에서만 용변을 봐서 배변패드를 치우고 산책을 다니기로 했는데 제가 무책임 하게 덥고 힘들다는 이유로 저녁 산책만...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70109&docId=494600950&qb=67CY66Ck6rKs&enc=utf8"
   },
   {
    "keyword": "반려견",
-   "title": "펫샵 입양 후 강아지 사망, 원인과 대처 방법은?",
-   "desc": "... 분양받은 지 일주일 만에 반려견이 사망하여 마음이 많이 무거우시겠습니다. 수의사 진단서에 전염병 잠복기나 선천적 유약개체 가능성이 명시되어 있다면 소비자분쟁해결기준이나 민법상 하자담보책임(물건이나 권리에 하자가 있을...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60215&docId=494584055&qb=67CY66Ck6rKs&enc=utf8"
+   "title": "진돗개한테 막창주면 먹나요?",
+   "desc": "... 소량만 급여: 맛만 보는 수준으로 아주 조금만 주셔야 탈이 나지 않습니다. 가장 좋은 대안: 막창 대신 기름기가 적은 살코기(닭가슴살, 소고기 홍두깨살 등)를 양념 없이 삶아 주시는 것이 반려견 건강에 훨씬 안전합니다.",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80101&docId=494601010&qb=67CY66Ck6rKs&enc=utf8"
   },
   {
    "keyword": "반려견",
-   "title": "강아지랑 여름 산책 나갈때 뭐 챙겨야 할까요?",
-   "desc": "... 10~15분마다 물을 조금씩 먹이고 심하게 헐떡이거나 혀·잇몸이 진한 붉은색이 되면 즉시 그늘로 이동해 몸을 식혀야 합니다. 사람용 벌레퇴치제 대신 반려견 전용 제품을 쓰고 산책 뒤 발바닥과 겨드랑이의 진드기도 확인하세요.",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494572822&qb=67CY66Ck6rKs&enc=utf8"
+   "title": "안냐하세요 강아지 장난감 이거 어디서 구하시는지...",
+   "desc": "제 반려견 이 좋아하는 장난감이 있는디 이제 너덜너덜 해져서 같은 모델로 새로 사려고 하니깐 안보이더라고요 ㅠ 쿠팡이나 이런데에서 파는 것 아시는 분 계신가요? 너무 안나온다고하시면 해외직구라도 찾아봐야합니다 참고만...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050102&docId=494600594&qb=67CY66Ck6rKs&enc=utf8"
   },
   {
    "keyword": "반려견",
-   "title": "꿈해몽 해주세요",
-   "desc": "... 실제 반려견의 죽음을 예언하는 꿈으로 볼 가능성은 매우... 꿈이 마지막에 실제 반려견의 안전을 확인시켜주는 구조로 끝난 셈입니다. 그래서 이 꿈을 실제 반려견의 사고를... 실제 반려견은 끝까지 살아남고 꿈속에서만 존재했던...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31505&docId=494580195&qb=67CY66Ck6rKs&enc=utf8"
+   "title": "반려견 7살인데",
+   "desc": "돼지고기 삶은거 쬐끔 줘도. 되나요? 기름부분은 떼어내고 살코기만 잘게잘라 주시면 좋습니다만, 때때로 알러지가 있는 아이도 있으니, 조금씩만 주시면서 상태를 봐 주세요.",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494595634&qb=67CY66Ck6rKs&enc=utf8"
   },
   {
    "keyword": "반려견",
-   "title": "울산강아지분양 다들 어디서 하셨나요?",
-   "desc": "... 처음 반려견을 키우신다면 외모나 분양 비용만 비교하기보다 본인의 생활 패턴에 맞는 견종인지, 장기적으로 돌볼 수 있는 환경인지도 함께 고려하는 것이 중요합니다. 충분히 여러 곳을 비교하고 필요한 정보를 확인한 뒤 신중하게...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=465911641&qb=67CY66Ck6rKs&enc=utf8"
+   "title": "강아지가 밥시간이 아닌데 밥 먹고 싶어하는 것 같아요",
+   "desc": "... ※ 본 내용은 일반적인 반려견 영양 및 양육 관리 참고용이며, 아이의 체중 변화나 공복 토 증상이 지속될 경우 담당 수의사 선생님과 상담을 통해 정확한 일일 권장 급여량을 확인하시기 바랍니다. 소중한 내 아이를 위한 하이엔드의...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494593852&qb=67CY66Ck6rKs&enc=utf8"
   },
   {
    "keyword": "반려견",
-   "title": "키우는 반려견 파양?",
-   "desc": "개인 건강상 사정으로 4년정도 키운 웰시코기 반려견 새러운 보호자를 찾고 싶은데 무료분양 보다는 책임비를 받고 분양하고 싶은데 아떤 방법으로 어디서 해야하는지 방법을 알고싶습니다 가정입양사이트에 올려보세요~ 4살이면...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=476573277&qb=67CY66Ck6rKs&enc=utf8"
+   "title": "2개월 반 된 강아지가 계속 발을 물어요",
+   "desc": "... ※ 본 내용은 일반적인 반려견 행동 교정 및 양육 참고용이며, 아이의 공격성이 너무 심해지거나 입질 행동이 개선되지 않을 경우 반드시 전문 반려동물 행동 교정사나 수의사의 상담을 받아보시길 권해드립니다. 도쿄 현지의 감각적인...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050104&docId=494593839&qb=67CY66Ck6rKs&enc=utf8"
   },
   {
    "keyword": "반려견",
-   "title": "고교 위탁을 가려고 하는데 둘 중 어디가 좋을까요?",
-   "desc": "... 전문적인 미용 실무를 깊이 있게 배워 애견미용사(반려견스타일리스트) 자격증을 확실하게 따고 전문성을 키우기에 유리합니다. 인천경문실용전문학교는 기본 애견미용 및 자격증 준비 외에도 펫베이킹, 펫푸드, 핸들러, 커피바리스타...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494578849&qb=67CY66Ck6rKs&enc=utf8"
+   "title": "반려견이 빌딩 정문 앞 주차금지 표시봉에 자주 소변",
+   "desc": "빌딩 경비 보고 있는데 CCTV에 소변 보는 장면이 자주 포착 되어서 인터폰으로 아니면 쫓아 나가서 소변 보지 말라고 소리 치는데 계속 그러면 법적 조치 할 수 있나요?",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60215&docId=494597123&qb=67CY66Ck6rKs&enc=utf8"
   },
   {
    "keyword": "반려견",
-   "title": "생명과학2 탐구 주제",
-   "desc": "... 추천 주제 반려동물 유전체 분석과 맞춤의학 동물의 유전질환과 유전자 검사 반려견 품종별 유전병 발생 원인 AI를 활용한 동물 질병 진단 인수공통감염병과 One Health(원헬스) 장내 미생물과 반려동물 건강 CRISPR를 이용한 유전질환...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110404&docId=494576297&qb=67CY66Ck6rKs&enc=utf8"
+   "title": "강아지가 너무 키우고 싶은데 엄마가 허락을 안해줘요",
+   "desc": "... 반려견을 키우고 싶다면 먼저 한 달짜리 책임 계획표를 만들어 어머니께... 생활을 반려견 없이 먼저 실천해 보세요. 가족 모두의 동의가 필요한 이유는... 보호소 봉사나 지인의 반려견 돌봄을 정기적으로 경험한 뒤 품종보다 성격과...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494587073&qb=67CY66Ck6rKs&enc=utf8"
   },
   {
    "keyword": "반려견",
-   "title": "lg 퓨리케어 공기청정기 a/s",
-   "desc": "... 아이구, 반려견 키우다 보면 전선 물어뜯는 일 진짜 흔하게 생기는데 전기가 가끔 들썩거린다니 감전 위험도 있어서 엄청 놀라셨겠어요. 결론부터 말씀드리면 전원 코드선만 따로 교체(부품 교체 및 출장 AS)가 가능해요. 다만...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50104&docId=493067443&qb=67CY66Ck6rKs&enc=utf8"
+   "title": "개소변태문에지장",
+   "desc": "... 앞에 반려견의 대소변이 지속적으로 누워 피해를 입는 상황은 분명히... 일반적으로 이웃 간 소음, 냄새, 쓰레기 문제처럼 반려견 배설물 문제도... 또한, 반려견 주인이 배설물을 치우지 않아 반복된다면 동물보호법이나 관련 조례의...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=2&dirId=20112&docId=494594559&qb=67CY66Ck6rKs&enc=utf8"
   },
   {
    "keyword": "반려견",
-   "title": "유기견이 아닌 반려견 입양처 알아보기.",
-   "desc": "엄마와 저 둘이 살고 있는데 갑자기 둘다 몸이 너무 안좋아져서 엄마는 수술을 하러 병원에 입원을 해야되고 저도 몸상태가 안좋아 일도 못하는 상태라 형편이 너무 어렵습니다.반려견을 입양 보내려고 하는데 돈이 들고 기초생활수급자...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=494576461&qb=67CY66Ck6rKs&enc=utf8"
+   "title": "리트리버 분양 원해요",
+   "desc": "... 만난 이후에도 사후관리, 훈련 상담, 미용까지 지속적으로 도움을 드리고 있습니다. 반려견과 보호자가 오래도록 행복하게 지낼 수 있도록 처음부터 끝까지 함께하는 것이 저희가 가장 중요하게 생각하는 가치입니다. Tel:010-****-****",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=494514855&qb=67CY66Ck6rKs&enc=utf8"
   },
   {
    "keyword": "반려견",
-   "title": "던의 일상 모습, 예능에서 본 진짜 성격은 어떤가요?",
-   "desc": "... 반려견과 함께 시간을 보내고, 직접 요리하고 집을 꾸미는 모습에서 그의 진짜 성격이나 삶의 태도가... 정리 반려견 돌봄을 차분히 해내는 모습에서 예민함보다 섬세함 꾸밈보다 성실함이 더 크게 보였어요 겉은 독특해 보여도 속은...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=3&dirId=3010203&docId=494575523&qb=67CY66Ck6rKs&enc=utf8"
+   "title": "평택 강아지 분양좀 받을려고 하는대요",
+   "desc": "... 만난 이후에도 사후관리, 훈련 상담, 미용까지 지속적으로 도움을 드리고 있습니다. 반려견과 보호자가 오래도록 행복하게 지낼 수 있도록 처음부터 끝까지 함께하는 것이 저희가 가장 중요하게 생각하는 가치입니다. Tel:010-****-****",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=494004066&qb=67CY66Ck6rKs&enc=utf8"
   },
   {
    "keyword": "반려견",
-   "title": "인스타 스레드",
-   "desc": "... 해제하시구요 반려견 성장 일기를 인스타에 기록 중인데 우리 아이 예쁜 모습을 더 많은 랜선 이모 삼촌들에게 보여주고 싶은데 노출이 참 안 되네요. 릴스도 열심히 편집해서 올리고 해시태그도 나름 신경 써서 다는데 알고리즘의...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1061203&docId=494557928&qb=67CY66Ck6rKs&enc=utf8"
+   "title": "강아지 책임분양 어떻게 보내나요?",
+   "desc": "... 만난 이후에도 사후관리, 훈련 상담, 미용까지 지속적으로 도움을 드리고 있습니다. 반려견과 보호자가 오래도록 행복하게 지낼 수 있도록 처음부터 끝까지 함께하는 것이 저희가 가장 중요하게 생각하는 가치입니다. Tel:010-****-****",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=494187045&qb=67CY66Ck6rKs&enc=utf8"
   },
   {
    "keyword": "반려견",
-   "title": "꿈이 무서워요. 무슨 꿈인가요?",
-   "desc": "... 사람에 따라 실제 반려견일 수도 있고, 어떤 관계나 감정일 수도 있습니다. 그 강아지가 본인을 따라오다가 떨어졌다는 건, 내가 선택하거나 가고 있는 방향 때문에 소중한 것이 영향을 받을까 봐 걱정하는 심리가 깔려 있습니다. 다만...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31505&docId=494573728&qb=67CY66Ck6rKs&enc=utf8"
+   "title": "강아지 특수청소",
+   "desc": "... 에어컨 내부 오염이 반려견 때문에 발생했다는 근거가 없다면 필터 청소 비용까지 임차인이 전부 부담하는지는 협의가 필요합니다. 퇴거 전에 일반청소와 털·냄새 제거를 충분히 한 뒤 집주인과 함께 상태를 확인하시길 권합니다.",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80901&docId=460393518&qb=67CY66Ck6rKs&enc=utf8"
   },
   {
    "keyword": "반려견",
-   "title": "노견심장병인데요",
-   "desc": "... 남은 시간을 최대한 편안하게 보낼 수 있도록 보호자님이 곁에서 돌봐주시는 것만으로도 반려견에게는 큰 힘이 될 것입니다. 도움이 되셨다면 채택과 공감 부탁드리며, 궁금한 점이 있으시면 추가질문 남겨주세요^^★",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494573427&qb=67CY66Ck6rKs&enc=utf8"
+   "title": "학생인데 남자친구랑 할 만한 실내 데이트 추천해즈세여",
+   "desc": "... 남자친구가 반려견을 데려갈 수 있는 애견동반 카페를 생각한 것이라면, 방문 전에 해당 카페의 동반 가능 여부와 예방접종 등 이용 조건을 미리 확인해 보세요. 더운 날에는 무리하게 야외를 돌아다니기보다 실내에서 시원하게 놀고...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80101&docId=494591108&qb=67CY66Ck6rKs&enc=utf8"
   },
   {
    "keyword": "반려견",
-   "title": "새끼 강아지 양치",
-   "desc": "... 가정용 반려견 전용 발톱깎이를 사용하시고 처음에는 발을 만지는 적응 훈련부터 천천히 진행해 보세요. 결론만 말하면 1개월령 강아지에게 구강 스프레이 직접 사용은 금물이며 양치 티슈로 대체하시고 발톱은 끝부분만 조심스럽게...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494572354&qb=67CY66Ck6rKs&enc=utf8"
+   "title": "임영웅의 커피차, 시월이도 함께 했나요?",
+   "desc": "... 그런데 그 커피차에 임영웅 씨의 반려견 시월이도 함께 했다는 이야기가 있던데, 정말인가요? 시월이 사진이 커피차 스티커에 들어갔다는 게 너무 귀여워서요. 혹시 그 사진이나 스토리에 대해 더 알고 계신 분이 있다면 공유해주실 수...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=3&dirId=3010101&docId=494588547&qb=67CY66Ck6rKs&enc=utf8"
   },
   {
    "keyword": "반려견",
-   "title": "강아지 폐종양 또는 폐렴소견 엑스레이관련 의견 간절히...",
-   "desc": "... 반려견이 호흡 문제로 많이 힘들어하고 있어 마음이 정말 무거우시겠어요. 엑스레이를 보니 폐 전체적으로 아주 하얗게 음영이 퍼져 있는 상태라, 단순 폐렴보다는 폐 종양 전이 가능성이나 심각한 폐 질환을 의심할 수밖에 없는...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494572191&qb=67CY66Ck6rKs&enc=utf8"
+   "title": "임영웅의 커피차, 반려견 시월이도 함께 했나요?",
+   "desc": "최근 기사를 보니 임영웅 씨가 반려견 시월이와 함께 커피차를 보냈다고 하더라고요. 반려견과 함께 이런 이벤트를 준비하는 게 쉽지 않았을 텐데, 정말 마음이 따뜻해지는 이야기였어요. 혹시 반려견을 키우는 입장에서 이런 이벤트에...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=11&dirId=111608&docId=494590890&qb=67CY66Ck6rKs&enc=utf8"
   },
   {
    "keyword": "반려견",
-   "title": "노견이 종일 울어요 ㅜ ㅜ",
-   "desc": "... 인지기능 저하 (치매 증상): 17세의 고령견인 만큼 인지장애증후군(반려견 치매)이 동반되었을 수 있습니다. 치매가 오면 밤낮이 바뀌거나, 이유 없이 계속 짖고 울며, 보호자를 과도하게 의존하는 행동을 보이게 됩니다. 학습된 행동...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494571701&qb=67CY66Ck6rKs&enc=utf8"
+   "title": "강아지 유모차= 바퀴 지름은 크고 + 작은 것(소형견용)...",
+   "desc": "... 소중한 반려견과의 편안하고 안전한 외출을 위해 바퀴가 크면서도 소형견에게 딱 맞는 올블랙 디자인의 유모차를... 언제나 반려견과 함께하는 모든 발걸음이 건강하고 시원하며 행복한 추억으로 가득 차기를 진심으로...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494568123&qb=67CY66Ck6rKs&enc=utf8"
   },
   {
-   "keyword": "말티즈 기침",
-   "title": "강아지 폐종양 또는 폐렴소견 엑스레이관련 의견 간절히...",
-   "desc": "어제 8살 말티즈 (남) 엑스레이 촬영한 사진입니다. 저번주 수요일 정도부터 밤에 잘때 호흡이 분당 60회정도 되어... 아이는 기침이나. 가래, 콧물은 계속해서 전혀 없는상태고, 잘때 호흡은 어제 저녁부터 편안해졌다가 빨라졌다가...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494572191&qb=66eQ7Yuw7KaIIOq4sOy5qA==&enc=utf8"
+   "keyword": "반려견",
+   "title": "강아지는 왜 입술이 까맣나요?",
+   "desc": "... 우리 소중한 반려견을 세심하게 관찰하시다가 입술이 까만 이유에 대해 문득 궁금증이 생기셔서 이렇게 질문을... 사랑스러운 반려견이 보호자님의 세심한 관찰과 따뜻한 사랑 속에서 언제나 건강하고 안전하게 여름을 보낼 수 있기를...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494570100&qb=67CY66Ck6rKs&enc=utf8"
   },
   {
-   "keyword": "푸들 슬개골",
+   "keyword": "반려견",
+   "title": "강아지 포메",
+   "desc": "... 사랑스러운 반려견이 앞으로도 보호자님 곁에서 오랫동안 건강하고 행복하게 지낼 수 있도록 언제나 애정 어린 관심으로 보살펴 주시기를 응원합니다. 지금까지 강아지를 사랑하는 멍풍기 아지풍이었습니다.",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494569931&qb=67CY66Ck6rKs&enc=utf8"
+  },
+  {
+   "keyword": "반려견",
+   "title": "강아지가 주인이 없으면 밥을 안먹어요",
+   "desc": "... 소중한 반려견을 집에 혼자 두고 여행을 떠나셔야 하는 상황에서, 밥도 전혀 먹지 않고 기다릴 아이를 생각하면... 사랑하는 반려견이 보호자님의 세심한 배려와 따뜻한 노력 속에서 불안감을 극복하고 밥도 잘 먹으며 늘 건강하고...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70309&docId=494560756&qb=67CY66Ck6rKs&enc=utf8"
+  },
+  {
+   "keyword": "반려견",
    "title": "4개월 토이푸들 질문드려요",
-   "desc": "... 다만, 특정 부위를 만졌을 때가 아니라 가만히 있다가도 소리를 낸다면 슬개골 탈구 초기 증상이나 관절 문제일 수도 있어서 주의 깊게 봐야 해요. 지금 당장 엑스레이를 찍는 게 필수는 아니지만, 깨갱거리는 횟수가 잦아지거나 특정...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494572122&qb=7ZG465OkIOyKrOqwnOqzqA==&enc=utf8"
+   "desc": "... 사랑스러운 반려견이 아프지 않고 건강하게 자랄 수 있도록 당분간 높은 곳에서 뛰어내리는 행동은 철저히 제한해 주시고, 아이가 소리를 지르는 순간을 영상으로 촬영해 두시면 추후 수의사 선생님의 진료를 받으실 때 매우 정확하고...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494572122&qb=67CY66Ck6rKs&enc=utf8"
+  },
+  {
+   "keyword": "반려견",
+   "title": "심장사상충 예방약 비교 중 목시덱틴은 어떤 특징이...",
+   "desc": "... 남편분과 함께 사랑하는 반려견을 데리고 주말마다... 잦은 반려견에게 매우 효과적인 선택지가 될 수 있습니다. 다만 반려견의 정확한 몸무게와 현재 건강 상태, 그리고... 소중한 반려견이 아프지 않고 보호자님 가족과 함께 오랫동안...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494572545&qb=67CY66Ck6rKs&enc=utf8"
+  },
+  {
+   "keyword": "반려견",
+   "title": "여름철 외출시 강아지 에어컨",
+   "desc": "... 무더운 여름철에 홀로 남겨질 반려견의 더위와 건강을 걱정하시며 에어컨 작동법과 전기세 절약 방법을 고민하시는 보호자님의 따뜻한 마음에 깊이 공감합니다. 정속형 에어컨은 인버터형과 달리 설정 온도에 도달하더라도 실외기가...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494562646&qb=67CY66Ck6rKs&enc=utf8"
+  },
+  {
+   "keyword": "반려견",
+   "title": "제주도 애견동반 배편",
+   "desc": "... 저도 예전에 반려견 데리고 배 편을 알아볼 때 케이지 규정과 항구별 선사 지침이 헷갈려서 고생했던 적이... 예약 전 3분, 강아지 배편 탑승 규정 미리 체크하세요 내용이 도움이 되셨다면 좋겠고, 반려견들과 함께 안전하고 행복한...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=9&dirId=90112&docId=492750808&qb=67CY66Ck6rKs&enc=utf8"
+  },
+  {
+   "keyword": "반려견",
+   "title": "반려견 밥그릇 물그릇은",
+   "desc": "매일 씻어서 교체해주나요? 매일 씻어주면 꺠끟하고 건강에좋지요,",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=6&dirId=61303&docId=494587525&qb=67CY66Ck6rKs&enc=utf8"
+  },
+  {
+   "keyword": "반려견",
+   "title": "치와와랑 골든 리트리버중에",
+   "desc": "... [안내] 본 내용은 일반적인 품종별 성향에 대한 참고용 정보이며, 반려견의 실제 성격과 행동은 개체별 기질, 양육 환경 및 사회화 교육에 따라 크게 달라질 수 있으므로 입양 전 전문 훈련사나 수의사의 자문을 받아 신중히 결정하시기...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494587014&qb=67CY66Ck6rKs&enc=utf8"
+  },
+  {
+   "keyword": "반려견",
+   "title": "문선교체비용",
+   "desc": "... 키우는 반려견이 이갈이를 하거나 심심해서 문틀 주변을 뜯어놓는 경우가 정말 많더라고요. 집 비울 때나 잠깐 한눈판 사이에 이렇게 되면 참 속상하고 당황스러우셨을 것 같아요. 그럼 이렇게 하시면 돼요. 우선 파손 상태가 아주...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494584743&qb=67CY66Ck6rKs&enc=utf8"
+  },
+  {
+   "keyword": "반려견",
+   "title": "서울에서 복지해택도 살기도 좋은 동네 추천합니다",
+   "desc": "... 있어요 반려견이 있다보니 더 신중하게 동네알아봐야할꼬같아요 대체 어디서 자리잡고 살아가야 마음편히... 반려동물 인프라: 대단지 주거지역이 밀집해 있어 반려견 동반 인구가 많고, 과잉 진료 없이 정직하게 운영한다는 평판을...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110103&docId=494586480&qb=67CY66Ck6rKs&enc=utf8"
+  },
+  {
+   "keyword": "포메 슬개골",
+   "title": "강아지 포메",
+   "desc": "... 반대로 나이가 들면서 관절이 약해지기 쉬운 포메라니안 품종 특성상 과체중은 슬개골 탈구나 척추 질환에 치명적인 무리를 줄 수 있으므로, 정기적으로 동물병원에 내원하셔서 수의사 선생님과 상담을 통해 아이의 정확한 신체 충실...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494569931&qb=7Y+s66mUIOyKrOqwnOqzqA==&enc=utf8"
   },
   {
    "keyword": "강아지 슬개골 탈구",
-   "title": "포메라니안",
-   "desc": "강아지가 사료바꾼후 갑자기 변도 잘안보고 걷는것도 이상하게 걸어요 어떤원인일까요? 3일째 입니다. 아침까진... 특히 포메라니안은 슬개골 탈구나 관절 문제가 비교적 흔해, 밥을 먹은 뒤 갑자기 불편해진 것처럼 보여도 실제로는...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494542604&qb=6rCV7JWE7KeAIOyKrOqwnOqzqCDtg4jqtaw=&enc=utf8"
+   "title": "강아지슬개골탈구수술",
+   "desc": "... 현대해상 펫보험 슬개골 면책기간(대기기간) 내에 이미 치료가 시작된 질환이라, 그 기간이 지난 후에 통원 치료를 계속 받으시더라도 동일한 사유라면 보험금이 나오지 않을 가능성이 높아요. 저도 예전에 아이 병원비 청구할 때...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=7&dirId=710&docId=487753732&qb=6rCV7JWE7KeAIOyKrOqwnOqzqCDtg4jqtaw=&enc=utf8"
   },
   {
    "keyword": "강아지 슬개골 탈구",
-   "title": "4개월 토이푸들 질문드려요",
-   "desc": "이제 4개월인데요 최근 이틀전부터 강아지가 한번씩 깨갱 거리는데요 다 찾아보고 머리만져보기 다리부터 온몸... 다만, 특정 부위를 만졌을 때가 아니라 가만히 있다가도 소리를 낸다면 슬개골 탈구 초기 증상이나 관절 문제일 수도...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494572122&qb=6rCV7JWE7KeAIOyKrOqwnOqzqCDtg4jqtaw=&enc=utf8"
+   "title": "강아지 포메",
+   "desc": "... 강아지를 사랑하는 멍풍기 아지풍입니다. 아홉 살 된 소중한 포메라니안 아이의 식사량 때문에 고민이 많으실... 반대로 나이가 들면서 관절이 약해지기 쉬운 포메라니안 품종 특성상 과체중은 슬개골 탈구나 척추 질환에 치명적인...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494569931&qb=6rCV7JWE7KeAIOyKrOqwnOqzqCDtg4jqtaw=&enc=utf8"
   },
   {
    "keyword": "강아지 물 많이",
-   "title": "강아지 눈에 다래끼",
-   "desc": "강아지 눈에 다래끼가 났는데요ㅜㅜ 다래끼에 쓰는 연고를 찾는데 뭘 써야할지 모르겠어요 병원가기 전에 연고로도... 절개 및 배농: 다래끼가 크고 통증이 심하며 고름이 많이 찬 경우에는 수의사가 국소 마취 하에 작은 절개를 통해...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494574337&qb=6rCV7JWE7KeAIOusvCDrp47snbQ=&enc=utf8"
+   "title": "제가 드디어 스트레스로 폭발 한걸까요?",
+   "desc": "... 물을 많이 마시니까 본인 머무는 공간과 가장 먼 주방에 오줌을 싼거였어요... 아라(강아지)를 들여보내도 되겠냐며 말을 걸었고 오빠는 정신과 약 먹었냐, 안먹었으면 물 받아라 라며 챙겨주는 모습을 보며 내 편이 있는듯한 느낌에...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70109&docId=494600950&qb=6rCV7JWE7KeAIOusvCDrp47snbQ=&enc=utf8"
   },
   {
    "keyword": "강아지 물 많이",
-   "title": "강아지랑 여름 산책 나갈때 뭐 챙겨야 할까요?",
-   "desc": "... 얘기를 많이 들었거든요. 또 발바닥 화상 방지나 벌레 퇴치 같은 것도 신경 써야... 강아지가 더위 먹지 않게 안전하게 산책시키고 싶어요. 여름 산책에는 시원한 물, 접이식 물그릇, 배변봉투, 젖은 수건이나 쿨링타월, 진드기 제거용...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494572822&qb=6rCV7JWE7KeAIOusvCDrp47snbQ=&enc=utf8"
+   "title": "안녕하세요, 해연님☺",
+   "desc": "... 이틀 전, 초등학생 때부터 제 인생의 절반을 함께하며 가족처럼 자라온 강아지를 떠나보냈습니다. 아이가 심장병을 오래 앓고 있었고, 마지막에는 폐에 물이 가득 차서 많이 아파하다가 가족들이 모두 곁에 있는 집에서 무서워하며...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70109&docId=494593685&qb=6rCV7JWE7KeAIOusvCDrp47snbQ=&enc=utf8"
   },
   {
    "keyword": "강아지 물 많이",
-   "title": "강아지 바다수영",
-   "desc": "강아지 데리고 바다 수영하려고 하는데 강아지용 샴푸를 안가지고 왔어요ㅠㅠ 그냥 물로만 씻겨도 될까요?... 걱정이 많이 되셨을 것 같아요. 우리가 바닷가에서 놀고 난 뒤 소금기를 제대로 씻어내지 않으면 피부가 끈적거리고...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494577388&qb=6rCV7JWE7KeAIOusvCDrp47snbQ=&enc=utf8"
+   "title": "강아지 설사",
+   "desc": "... 11살인데 걱정되네요ㅜ 전날 블루베리를 좀 많이 먹긴 했습니다 강아지 설사 관련 정보 드려요. 이 내용 참고하시면 도움 되실것같아요. 불안하시다면 얼른 병원에 가보는게 좋습니다.",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494240435&qb=6rCV7JWE7KeAIOusvCDrp47snbQ=&enc=utf8"
   },
   {
    "keyword": "강아지 물 많이",
-   "title": "꿈해몽 해주세요",
-   "desc": "... 회색 강아지가 배 안에 있던 불구덩이에 빠져 죽었어 실제론 갈색 푸들 한마리만 키우는데 꿈에선 갈색 푸들이랑... 좋은 기운이 깃들 수 있도록 기도방에서 진심을 다해 정성껏 기도 많이 올려드리겠습니다 늘 평안하시기를 빕니다",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31505&docId=494580195&qb=6rCV7JWE7KeAIOusvCDrp47snbQ=&enc=utf8"
+   "title": "2개월 반 된 강아지가 계속 발을 물어요",
+   "desc": "... 생후 2개월 반이면 우리 아기 강아지에게 있어 세상 모든 것이 신기하고... 나오시고 많이 속상하셨을 것 같아요. 끝까지 포기하지 않고 발을 향해... 우선 보호자님, 아이가 물 때 물건으로 탁탁 소리를 내며 겁을 주거나 자극을 주는...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050104&docId=494593839&qb=6rCV7JWE7KeAIOusvCDrp47snbQ=&enc=utf8"
   },
   {
    "keyword": "강아지 물 많이",
-   "title": "강아지 노란토",
-   "desc": "... 강아지가 노란토를 한 뒤에도 사료와 물을 찾고, 평소처럼 기운이 있다면 공복이 길어져 담즙을 토한 경우일 가능성이 있습니다. 다만 토한 직후에 사료나 물을 한꺼번에 많이 주면 다시 토할 수 있으니 조금씩 나누어 주는 것이...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494550526&qb=6rCV7JWE7KeAIOusvCDrp47snbQ=&enc=utf8"
+   "title": "반려견 7살인데",
+   "desc": "... 우리가 기름진 음식을 많이 먹으면 속이 더부룩하고 불편해지는 것처럼, 강아지의 몸속 장기들도 기름기에 유독 민감하게 반응할 때가 있거든요. 특히 기름이 많은 부위를 갑자기 먹게 되면 췌장이 놀라서 앓거나 배탈이 나는 경우가...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494595634&qb=6rCV7JWE7KeAIOusvCDrp47snbQ=&enc=utf8"
   },
   {
    "keyword": "강아지 물 많이",
-   "title": "강아지 설사 토",
-   "desc": "강아지가 엊그제 설사를 두 번하고 토를 한 번 하고 괜찮다가 오늘 설사를 조그만하게 두 번 싸고 토를 한 번... :contentReference[oaicite:1]{index=1} 집에서는 - 간식과 새로운 음식은 중단하기 - 물은 한꺼번에 많이 마시게 하지 말고...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=7&dirId=7010102&docId=494550210&qb=6rCV7JWE7KeAIOusvCDrp47snbQ=&enc=utf8"
+   "title": "1개월 강아지 밥을 잘 안먹어요",
+   "desc": "... 이 시기 아기 강아지가 밥을 잘 안 먹거나 노란 토를 하면 초보 보호자분... 따뜻한 물(약 4050도)을 자작하게 부어 1520분 정도 푹 불린 후, 식혀서 포크로 으깨어 죽처럼 만들어 주세요. 급여량 조절: 한 번에 너무 많이 주기보다는...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494592782&qb=6rCV7JWE7KeAIOusvCDrp47snbQ=&enc=utf8"
   },
   {
    "keyword": "강아지 물 많이",
-   "title": "강아지 폐종양 또는 폐렴소견 엑스레이관련 의견 간절히...",
-   "desc": "... 폐암이 많이 의심된다고 하셨어요. 저는 일주일만 지금먹는 항생제 먹고 다시 재촬영해서 아이가 약먹고 많이... 반려견이 호흡 문제로 많이 힘들어하고 있어 마음이 정말 무거우시겠어요. 엑스레이를 보니 폐 전체적으로 아주 하얗게...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494572191&qb=6rCV7JWE7KeAIOusvCDrp47snbQ=&enc=utf8"
+   "title": "강아지가 너무 많이자요",
+   "desc": "... 잠을 많이 자는 강아지의 상황]에 의견을 남겨 보자면 -- 여름이 되기 전 평소보다 물을 많이마신다거나, 먹이 먹는양이 급격하게 줄었다가나, 최근에 보는 배변이 설사인경우 와 같다면 몸에 이상이 있는 경우라서 동물병원에...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494590927&qb=6rCV7JWE7KeAIOusvCDrp47snbQ=&enc=utf8"
   },
   {
-   "keyword": "강아지 소변 피",
-   "title": "강아지 연고 뭐 발라야 하나요??",
-   "desc": "... - 넥카라 착용 후에도 4~5일 이상 붉은기가 지속되거나 점점 심해질 때 - 노란색·초록색·피가 섞인 분비물 이 보일 때 - 소변을 자주 보거나 소변 실수가 갑자기 늘었을 때 - 생식기 주변이 붓거나 강아지가 만지면 아파할 때 - 기력 저하...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494584439&qb=6rCV7JWE7KeAIOyGjOuzgCDtlLw=&enc=utf8"
-  },
-  {
-   "keyword": "강아지 구토",
-   "title": "강아지가 사람약을 먹은거같아요 급해요",
-   "desc": "... 강아지가 사람 약을 먹었을 때는 즉시 동물병원에 가거나 수의사와 상담해야 합니다. 먹은 약의 봉지와 남은 알약을... 임의 구토 금지: 인터넷 검색만 믿고 집에서 억지로 토하게 하려다간 식도나 위를 다칠 수 있으니 병원에서...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494586076&qb=6rCV7JWE7KeAIOq1rO2GoA==&enc=utf8"
-  },
-  {
-   "keyword": "강아지 구토",
-   "title": "강아지 입원 후 발진등의 피부트러블 질문",
-   "desc": "안녕하세요 강아지가 일주일전에 심한구토 및 설사로 병원방문하엿고 염증수치증가등의 이유로 입원치료하게되었습니다 이후 일주일간 입원뒤 오늘 퇴원하였는데 엉덩이, 꼬리에 똥이 굳은채 붙어있었습니다. 입엔 알약캡슐이...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494580936&qb=6rCV7JWE7KeAIOq1rO2GoA==&enc=utf8"
-  },
-  {
-   "keyword": "강아지 구토",
-   "title": "강아지 연고 뭐 발라야 하나요??",
-   "desc": "... 아무리 좋은 연고를 발라도 강아지가 핥아버리면 효과가 없고, 오히려 연고 성분을 삼켜서 구토나 설사를 할 수 있습니다. 가장 확실한 방법은 넥카라(엘리자베스 카라) 착용입니다. 동물병원이나 인터넷에서 5천 원~1만 5천 원 정도면...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494584439&qb=6rCV7JWE7KeAIOq1rO2GoA==&enc=utf8"
-  },
-  {
-   "keyword": "강아지 구토",
-   "title": "강아지가 양파를 먹었는데 괜찮을까요..",
-   "desc": "... 양파는 강아지에게 해로운 음식이라 먹은 양과 강아지의 체중에 따라 주의가 필요합니다. 소량을 먹었다면 바로 문제가 나타나지 않을 수도 있지만, 구토나 설사, 기운 없음 같은 이상 증상이 보이면 병원에 내원해 확인받아보세요....",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494582010&qb=6rCV7JWE7KeAIOq1rO2GoA==&enc=utf8"
-  },
-  {
-   "keyword": "강아지 구토",
-   "title": "강아지가 이틀째 아침에 간식+노란토를 합니다",
-   "desc": "... 강아지 구토의 원인은 너무나 다양합니다. 이물을 비롯해 췌장염, 위염, 간질환, 신장질환, 스트레스, 체질에 맞지 않는 사료나 간식과 같은 원인으로 발생할 수 있습니다. 상황이 지속된다면 병원에서 정확한 진단과 적절한 처치...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494573988&qb=6rCV7JWE7KeAIOq1rO2GoA==&enc=utf8"
-  },
-  {
-   "keyword": "강아지 구토",
-   "title": "강아지가 갈색 묽은 토를 했어요 (사진0)",
-   "desc": "... 강아지 구토의 원인은 너무나 다양합니다. 이물을 비롯해 췌장염, 위염, 간질환, 신장질환, 스트레스, 체질에 맞지 않는 사료나 간식과 같은 원인으로 발생할 수 있습니다. 상황이 지속된다면 병원에서 정확한 진단과 적절한 처치...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494573039&qb=6rCV7JWE7KeAIOq1rO2GoA==&enc=utf8"
-  },
-  {
-   "keyword": "강아지 구토",
+   "keyword": "강아지 물 많이",
    "title": "강아지 토",
+   "desc": "... 아침부터 소중한 아이가 실과 머리카락이 섞인 회색 이물질을 토해서 많이 놀라시고 걱정되셨을 것 같습니다. 강아지들이 호기심에 커튼이나 머리카락, 실 같은 이물질을 삼키는 경우가 종종 있는데, 이는 소화가 되지 않아 위장을...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494571718&qb=6rCV7JWE7KeAIOusvCDrp47snbQ=&enc=utf8"
+  },
+  {
+   "keyword": "강아지 물 많이",
+   "title": "강아지 포메",
+   "desc": "... 강아지를 사랑하는 멍풍기 아지풍입니다. 아홉 살 된 소중한 포메라니안 아이의 식사량 때문에 고민이 많으실... 무조건 많이 주기보다는 아이의 정확한 몸무게와 사료 포장지에 기재된 일일 권장 칼로리를 기준으로 저울을 사용해...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494569931&qb=6rCV7JWE7KeAIOusvCDrp47snbQ=&enc=utf8"
+  },
+  {
+   "keyword": "강아지 물 많이",
+   "title": "강아지 심장병 x-ray",
+   "desc": "... 13살 말티즈 아이가 갑자기 숨을 가쁘게 쉬어서 정말 많이 놀라셨겠어요. 저도 노견을 키우는 입장에서 그 마음 충분히 이해가 가요. 보내주신 엑스레이를 보면 심장 크기가 정상 범위보다 확실히 커져 있는 게 보여요. 특히 측면...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494586934&qb=6rCV7JWE7KeAIOusvCDrp47snbQ=&enc=utf8"
+  },
+  {
+   "keyword": "강아지 밥을 안 먹어요",
+   "title": "강아지 종류?뭘까요?",
+   "desc": "강아지 품종이 뭘까요? 엄마가 일주일전에 데리고왔는데 4일째 밥을 잘안먹어요 잘 짖는편도 아니구요 믹스견으로 보입니다 웃는 모습이 넘 이쁘네요ㅎ... 높습니다만ㅜ4일째 안 먹는다니 걱정 되네요 간식도 안 먹나요? 물에 얼음도...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494597117&qb=6rCV7JWE7KeAIOuwpeydhCDslYgg66i57Ja07JqU&enc=utf8"
+  },
+  {
+   "keyword": "강아지 밥을 안 먹어요",
+   "title": "1개월 강아지 밥을 잘 안먹어요",
+   "desc": "폼숑이고요, 곧 6주되요 몸무게 800g인데 오리젠퍼피사료 먹이고있어요 근데 애가 식욕이없는것같아요 2시간 30분 간격으로 밥주고있는데(한번에 4~5g) 한번은 먹고 그다음은 절반먹고 그다음은 다먹어요 며칠전에 2시간간격에서...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494592782&qb=6rCV7JWE7KeAIOuwpeydhCDslYgg66i57Ja07JqU&enc=utf8"
+  },
+  {
+   "keyword": "강아지 밥을 안 먹어요",
+   "title": "5~6개월 강아지 노란거품토",
+   "desc": "... 안먹어요ㅜㅜ 어떻게 하나요? 정말 급해요 안녕하세요. 지식iN 동물의료상담 수의사 새은평동물의료센터장 버드나무 이상철입니다. 강아지 구토의 원인은 너무나 다양합니다. 이물을 비롯해 췌장염, 위염, 간질환, 신장질환...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494587000&qb=6rCV7JWE7KeAIOuwpeydhCDslYgg66i57Ja07JqU&enc=utf8"
+  },
+  {
+   "keyword": "강아지 구토",
+   "title": "강아지 간식 보관 실수",
+   "desc": "... ※ 본 내용은 일반적인 반려동물 먹거리 및 안전 관리 참고용이며, 간식 급여 후 구토, 설사, 기력 저하 등의 증상이 관찰될 경우 즉시 동물병원 수의사의 진료를 받으시기 바랍니다. 일상의 품격을 높여주는 도쿄 현지 프리미엄 펫 케어...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494593894&qb=6rCV7JWE7KeAIOq1rO2GoA==&enc=utf8"
+  },
+  {
+   "keyword": "강아지 구토",
+   "title": "5~6개월 강아지 노란거품토",
    "desc": "... 강아지 구토의 원인은 너무나 다양합니다. 이물을 비롯해 췌장염, 위염, 간질환, 신장질환, 스트레스, 체질에 맞지 않는 사료나 간식과 같은 원인으로 발생할 수 있습니다. 상황이 지속된다면 병원에서 정확한 진단과 적절한 처치...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494571718&qb=6rCV7JWE7KeAIOq1rO2GoA==&enc=utf8"
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494587000&qb=6rCV7JWE7KeAIOq1rO2GoA==&enc=utf8"
   },
   {
    "keyword": "강아지 구토",
-   "title": "강아지 수술 후 붉어짐",
-   "desc": "... - 구토나 설사가 다시 나타난다. 집에서는 - 절개 부위를 핥지 못하게 넥카라 착용하기 - 소독약이나 연고를... 강아지 장폐색 수술 후 상처 관리와 붓기·염증을 구분하는 방법은 블로그에서도 자세히 정리해두었습니다. 도움이...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494549992&qb=6rCV7JWE7KeAIOq1rO2GoA==&enc=utf8"
+   "title": "새끼강아지 노란토",
+   "desc": "... 하지만 생후 1개월 정도의 아주 어린 새끼 강아지는 체내에 스스로 영양분을 저장하고 혈당을 조절하는 능력이 매우 취약하기 때문에, 단 한 번의 구토나 아주 짧은 시간 동안의 단식만으로도 생명을 위협할 수 있는 치명적인 저혈당...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=7&dirId=708&docId=494571241&qb=6rCV7JWE7KeAIOq1rO2GoA==&enc=utf8"
   },
   {
    "keyword": "강아지 구토",
-   "title": "강아지 저혈당",
-   "desc": "... 떨어지거나 구토·설사가 있으면 바로 진료받기 '40알'처럼 알 개수만으로 급여량을 정하는 것은 적절하지 않습니다. 사료 봉투의 체중·월령별 권장량과 강아지의 현재 체중, 체형을 기준으로 담당 수의사에게 하루 몇 g을 먹여야...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494541176&qb=6rCV7JWE7KeAIOq1rO2GoA==&enc=utf8"
+   "title": "강아지가 주인이 없으면 밥을 안먹어요",
+   "desc": "... 강아지를 사랑하는 멍풍기 아지풍입니다. 소중한 반려견을 집에 혼자 두고 여행을 떠나셔야 하는 상황에서, 밥도... 만약 여행에서 돌아오신 이후에도 아이가 사료를 계속 거부하거나 무기력증, 구토, 설사 등의 이상 증세를 동반한다면...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70309&docId=494560756&qb=6rCV7JWE7KeAIOq1rO2GoA==&enc=utf8"
   },
   {
    "keyword": "강아지 구토",
-   "title": "포메라니안",
-   "desc": "강아지가 사료바꾼후 갑자기 변도 잘안보고 걷는것도 이상하게 걸어요 어떤원인일까요? 3일째 입니다. 아침까진... - 구토하거나 식욕이 떨어진다. - 배가 단단하거나 아파한다. - 다리를 들거나 비틀거린다. - 만지면 낑낑거리거나...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494542604&qb=6rCV7JWE7KeAIOq1rO2GoA==&enc=utf8"
-  },
-  {
-   "keyword": "강아지 구토",
-   "title": "강아지 습식캔 추천",
-   "desc": "... 다만 어떤 습식이든 가장 중요한 것은 - 주원료가 육류인지 - 불필요한 색소나 향료가 많은지 - 우리 강아지에게 잘 맞는지 - 설사나 구토 없이 잘 먹는지 를 함께 확인하는 것입니다. 습식캔은 수분 보충과 기호성 향상에는...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050103&docId=494544763&qb=6rCV7JWE7KeAIOq1rO2GoA==&enc=utf8"
+   "title": "강아지 심장약을 두번 먹였어요..",
+   "desc": "... 강아지를 사랑하는 멍풍기 아지풍입니다. 소중한 아이가 심장약을 중복으로 복용하게 되어 보호자님께서 지금... 빈맥, 구토, 설사, 그리고 극심한 활력 저하 등의 심각한 부작용을 유발할 수 있으므로 보호자님의 세심한 관찰이...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494573088&qb=6rCV7JWE7KeAIOq1rO2GoA==&enc=utf8"
   },
   {
    "keyword": "강아지 심장병",
-   "title": "심장병 강아지 감기 주사 맞은 다음 날 강아지별로...",
-   "desc": "... 감기 주사는 일반적으로 강아지의 면역력을 높여주고 감염을 예방하기 위한 것이지만, 심장병이 있는 강아지의 경우 면역계가 약해져 있거나 특정 약물에 대한 반응이 다를 수 있습니다. 이러한 상황에서는 주사 후 상태가 나빠질 수...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494584545&qb=6rCV7JWE7KeAIOyLrOyepeuzkQ==&enc=utf8"
+   "title": "안녕하세요, 해연님☺",
+   "desc": "... 이틀 전, 초등학생 때부터 제 인생의 절반을 함께하며 가족처럼 자라온 강아지를 떠나보냈습니다. 아이가 심장병을 오래 앓고 있었고, 마지막에는 폐에 물이 가득 차서 많이 아파하다가 가족들이 모두 곁에 있는 집에서 무서워하며...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70109&docId=494593685&qb=6rCV7JWE7KeAIOyLrOyepeuzkQ==&enc=utf8"
   },
   {
-   "keyword": "강아지 신부전",
-   "title": "강아지 신부전",
-   "desc": "(14살강아지 몸무게4초반) 2/27:번29 / crea1.6, 3/31:번28 / crea2.5 / phos 2.9 / sdma21/뇨/혈압/+레나메진 복용 시작 4/28:번24... 또는 신부전 케어하셨던 분만 답변 부탁드립니다 (광고 신고) 14살 노령견이 신부전 수치 변화로 마음고생이 정말...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494576937&qb=6rCV7JWE7KeAIOyLoOu2gOyghA==&enc=utf8"
+   "keyword": "강아지 심장병",
+   "title": "강아지 심장약을 두번 먹였어요..",
+   "desc": "... 특히 심장병이 있는 강아지들은 스스로 체온을 조절하는 능력이 현저히 떨어지기 때문에 주변 온도가 조금만 올라가도 심장에 큰 무리가 갈 수 있으므로, 실내 온도를 항상 시원하게 유지해 주시고 추후 외출 시에는 유모차에 시원한...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494573088&qb=6rCV7JWE7KeAIOyLrOyepeuzkQ==&enc=utf8"
+  },
+  {
+   "keyword": "강아지 심장병",
+   "title": "강아지 심장병 x-ray",
+   "desc": "... 수의사선생님께서 폐에 물이 찬 거 같다고 하시고 심장병일 가능성이 있다고 하셨습니다. X-ray 사진을 받긴 했는데... 특히 측면 사진에서 심장이 흉강의 상당 부분을 차지하고 있는데, 이건 심장병으로 인해 심장이 비대해진 전형적인...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80511&docId=494586934&qb=6rCV7JWE7KeAIOyLrOyepeuzkQ==&enc=utf8"
   },
   {
    "keyword": "강아지 분리불안",
-   "title": "마메시바랑 그냥 시바랑 성격이 다른건가요",
-   "desc": "... 놀고하며 분리불안도 없고(아직도 홈캠으로 주기적으로 확인) 그힘들다는 실내배변도하고 실외배변 둘다 하는강아지입니다 내외부기생충 신장사상충 직접먹이는게아니라 병원 한달마다 직접가서 어릴때부터 봐주시던 의사쌤...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494582633&qb=6rCV7JWE7KeAIOu2hOumrOu2iOyViA==&enc=utf8"
+   "title": "미용 후 강아지 소변 실수",
+   "desc": "... 특히 사회성이 부족하거나 혼자 있는 시간이 길었던 강아지는 미용 후 불안이 커져 배변 실수로 이어질 수 있습니다. 분리불안이 있는 경우 외출이나 보호자와 떨어지는 상황에서 짖음, 낑낑거림, 물건 씹기, 배변 실수 같은 반응이...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494599186&qb=6rCV7JWE7KeAIOu2hOumrOu2iOyViA==&enc=utf8"
+  },
+  {
+   "keyword": "강아지 분리불안",
+   "title": "안녕하세요, 해연님☺",
+   "desc": "... 이틀 전, 초등학생 때부터 제 인생의 절반을 함께하며 가족처럼 자라온 강아지를 떠나보냈습니다. 아이가 심장병을... 제가 성인이 되자마자 데리고 나온 지 2년이 조금 넘었는데, 의사 선생님께서 “이제야 아이가 우울증과 분리불안도...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70109&docId=494593685&qb=6rCV7JWE7KeAIOu2hOumrOu2iOyViA==&enc=utf8"
+  },
+  {
+   "keyword": "강아지 분리불안",
+   "title": "강아지가 주인이 없으면 밥을 안먹어요",
+   "desc": "... 강아지가 보호자님이 부재중일 때 사료를 아예 입에 대지 않는 행동은 전형적인 분리불안 증상 중 하나로, 주인이 없는 공간에서 극도의 불안감과 스트레스를 느껴 식욕을 완전히 잃어버리기 때문에 나타나는 현상입니다. 특히 2박...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70309&docId=494560756&qb=6rCV7JWE7KeAIOu2hOumrOu2iOyViA==&enc=utf8"
   },
   {
    "keyword": "강아지 짖음",
-   "title": "강아지 경계성 짖음",
-   "desc": "... 어렸을때 부터 경계성 짖음이 너무 심해서 산책할때마다 힘들어요 ㅠㅠ... 우산으로 막는 방법은 짖음을 억제하는 효과는 있을 수 있지만, 두려움 때문에... 경계성 짖음은 낯선 자극에 익숙해지는 훈련이 중요하며, 짖기 전 거리를...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050104&docId=494575459&qb=6rCV7JWE7KeAIOynluydjA==&enc=utf8"
+   "title": "미용 후 강아지 소변 실수",
+   "desc": "... 특히 사회성이 부족하거나 혼자 있는 시간이 길었던 강아지는 미용 후 불안이 커져 배변 실수로 이어질 수 있습니다. 분리불안이 있는 경우 외출이나 보호자와 떨어지는 상황에서 짖음, 낑낑거림, 물건 씹기, 배변 실수 같은 반응이...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050105&docId=494599186&qb=6rCV7JWE7KeAIOynluydjA==&enc=utf8"
   },
   {
    "keyword": "강아지 짖음",
-   "title": "5개월된 말티푸 너무짖는현상?",
-   "desc": "... 강아지 요구성 짖음의 원인과 효과적인 교육 방법, 초보 보호자가 꼭 알아야 할 훈련 팁은 블로그에서도 자세히 정리해두었습니다. 도움이 되셨다면 한 번 참고해 보세요. https://pawsandprofit.blogspot.com",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494541206&qb=6rCV7JWE7KeAIOynluydjA==&enc=utf8"
+   "title": "치와와랑 골든 리트리버중에",
+   "desc": "... 꼽히는 강아지고요. 반면 치와와는 몸집이 작아서 흔히 순하고 여리다고 생각하시기 쉬운데, 실제로는 성격이 꽤 강하고 예민한 편이에요. 자기보다 큰 동물이나 낯선 사람한테도 경계심이 강하고, 짖음도 많고, 애착 대상 외에는...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494587014&qb=6rCV7JWE7KeAIOynluydjA==&enc=utf8"
+  },
+  {
+   "keyword": "강아지 짖음",
+   "title": "애견훈련소",
+   "desc": "안녕하세요 말티숑(말티즈+비숑mix)2살된 수컷 강아지를 키우는 사람입니다 저희 강아지가 입질+짖음이 너무 심해 애견훈련을 보낼려고 하는데 대구에 주말까지 하는 애견훈련하는 곳이 있을까요? 있다면 제발 저에게 알려주세요 ㅠ...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=494586688&qb=6rCV7JWE7KeAIOynluydjA==&enc=utf8"
   },
   {
    "keyword": "강아지 입질",
-   "title": "마메시바랑 그냥 시바랑 성격이 다른건가요",
-   "desc": "... 다른 강아지한테 지면졋지 사나운모습은 1도없는데 왜 강형욱티비프로그램이나 다른사람들은 태생적으로 시바견이 사납고 입질심하고 공격적이라는건가요? 마메시바라서그런건가여? 분양받을때 사실 지금보다 큰 중형견생각하고...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=494582633&qb=6rCV7JWE7KeAIOyeheyniA==&enc=utf8"
+   "title": "2개월 반 된 강아지가 계속 발을 물어요",
+   "desc": "... 생후 2개월 반이면 우리 아기 강아지에게 있어 세상 모든 것이 신기하고, 입으로 하나씩 확인해 보며 알아가는 아주... ※ 본 내용은 일반적인 반려견 행동 교정 및 양육 참고용이며, 아이의 공격성이 너무 심해지거나 입질 행동이...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050104&docId=494593839&qb=6rCV7JWE7KeAIOyeheyniA==&enc=utf8"
   },
   {
    "keyword": "강아지 입질",
-   "title": "아기푸들 너무 소심해요",
-   "desc": "... 이 시기에는 강아지가 스스로 안정을 찾을 수 있도록 무리하게 밖으로 끌어내기보다는 편안하게 쉴 수 있는 켄넬이나 울타리 공간을 만들어 주는 것이 좋습니다. 2. 입질 교정과 올바른 놀이 방법 함께 놀 때 손이나 발을 물려고 하는...",
-   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050104&docId=494578780&qb=6rCV7JWE7KeAIOyeheyniA==&enc=utf8"
+   "title": "입질 심한 강아지 파양",
+   "desc": "2살 좀 넘은 비숑 한 마리 키우고 있는데요 강아지가 좀 사나워서 입질도 심하고 산책 갔다오면 기본적인 발 닦는 것도 못하게 물어버려요 개 한 마리 때문에 온 가족이 분위기가 안좋을 만큼 상황이 심각합니다 강아지 등록도 했었는데 .....",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80501&docId=451959634&qb=6rCV7JWE7KeAIOyeheyniA==&enc=utf8"
+  },
+  {
+   "keyword": "강아지 입질",
+   "title": "애견훈련소",
+   "desc": "안녕하세요 말티숑(말티즈+비숑mix)2살된 수컷 강아지를 키우는 사람입니다 저희 강아지가 입질+짖음이 너무 심해 애견훈련을 보낼려고 하는데 대구에 주말까지 하는 애견훈련하는 곳이 있을까요? 있다면 제발 저에게 알려주세요 ㅠ...",
+   "link": "https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=494586688&qb=6rCV7JWE7KeAIOyeheyniA==&enc=utf8"
   }
  ]
 }
